@@ -40,4 +40,6 @@ class Factsheet(BaseModel):
         description="True if the 3y/5y figures are annualised (% p.a.), False if they are cumulative",
     )
 
-    top_holdings: list[Holding] = Field(default_factory=list, description="Top 10 holdings with weights in percent")
+    top_holdings: list[Holding] = Field(
+        default_factory=list, max_length=3, description="Three largest holdings, largest first, weights in percent"
+    )
