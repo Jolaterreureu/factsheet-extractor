@@ -1,0 +1,40 @@
+issuer,index_cluster,fund_name,ticker,isin,share_class,url,status
+iShares,MSCI World,iShares Core MSCI World UCITS ETF,SWDA,IE00B4L5Y983,USD Acc,https://www.ishares.com/uk/individual/en/literature/fact-sheet/swda-ishares-core-msci-world-ucits-etf-fund-fact-sheet-en-gb.pdf,pattern_guess
+iShares,MSCI World,iShares MSCI World UCITS ETF,IWRD,IE00B0M62Q58,USD Dist,https://www.ishares.com/uk/individual/en/literature/fact-sheet/iwrd-ishares-msci-world-ucits-etf-fund-fact-sheet-en-gb.pdf,pattern_guess
+Vanguard,MSCI World,Vanguard FTSE Developed World UCITS ETF,VHVE,IE00BK5BQV03,USD Acc,https://fund-docs.vanguard.com/FTSE_Developed_World_UCITS_ETF_USD_Accumulating_9675_EU_INT_EN.pdf,pattern_guess
+Vanguard,MSCI World,Vanguard FTSE Developed World UCITS ETF,VEVE,IE00BKX55T58,USD Dist,https://fund-docs.vanguard.com/FTSE_Developed_World_UCITS_ETF_USD_Distributing_9527_EU_INT_EN.pdf,pattern_guess
+Xtrackers,MSCI World,Xtrackers MSCI World UCITS ETF,XDWD,IE00BJ0KDQ92,1C,https://etf.dws.com/download/asset/7479ae20-a6b8-4a30-82e5-639d29ab8ea4,found
+Xtrackers,MSCI World,Xtrackers MSCI World Swap UCITS ETF,XMWO,LU0274208692,1C,https://etf.dws.com/download/asset/d9489949-05a9-4627-8349-d9d00989fc6d,found
+Amundi,MSCI World,Amundi MSCI World Swap UCITS ETF,CW8,LU1681043599,EUR Acc,https://www.amundietf.com/pdfDocuments/monthly-factsheet/LU1681043599/ENG/LUX/INSTITUTIONNEL/ETF/20260930,found
+Amundi,MSCI World,Amundi Core MSCI World UCITS ETF,MWRD,IE000BI8OT95,USD Acc,https://www.amundietf.com/pdfDocuments/monthly-factsheet/IE000BI8OT95/ENG/LUX/INSTITUTIONNEL/ETF/20260930,pattern_guess
+UBS,MSCI World,UBS Core MSCI World UCITS ETF,UC5,IE00BD4TXV59,USD acc,https://www.ubs.com/2/e/files/RET/FS_RET_IE00BD4TXV59_CH_EN.pdf,found
+iShares,S&P 500,iShares Core S&P 500 UCITS ETF,CSPX,IE00B5BMR087,USD Acc,https://www.ishares.com/uk/individual/en/literature/fact-sheet/cspx-ishares-core-s-p-500-ucits-etf-fund-fact-sheet-en-gb.pdf,pattern_guess
+iShares,S&P 500,iShares Core S&P 500 UCITS ETF,IUSA,IE0031442068,USD Dist,https://www.blackrock.com/gls-download/literature/fact-sheet/iusa-ishares-core-s-p-500-ucits-etf-usd-dist-fund-fact-sheet-en-lu.pdf,found
+Vanguard,S&P 500,Vanguard S&P 500 UCITS ETF,VUAA,IE00BFMXXD54,USD Acc,https://fund-docs.vanguard.com/SandP_500_UCITS_ETF_USD_Accumulating_9694_NETH_INT_EN.pdf,found
+Vanguard,S&P 500,Vanguard S&P 500 UCITS ETF,VUSA,IE00B3XXRP09,USD Dist,https://fund-docs.vanguard.com/SandP_500_UCITS_ETF_USD_Distributing_9503_EU_INT_EN.pdf,found
+Xtrackers,S&P 500,Xtrackers S&P 500 Swap UCITS ETF,XSPX,LU0490618542,1C,https://etf.dws.com/download/asset/fd999972-cc8d-4412-a304-043a821ed976,found
+Amundi,S&P 500,Amundi S&P 500 II UCITS ETF,SP5C,LU1135865084,Acc,https://www.amundietf.com/pdfDocuments/monthly-factsheet/LU1135865084/ENG/LUX/INSTITUTIONNEL/ETF/20260930,pattern_guess
+UBS,S&P 500,UBS Core S&P 500 UCITS ETF,SP5,IE00B7K93397,USD dis,https://www.ubs.com/2/e/files/RET/FS_RET_IE00B7K93397_CH_EN.pdf,pattern_guess
+UBS,S&P 500,UBS S&P 500 SF UCITS ETF,SPXS,IE00B4JY5R22,USD acc,https://www.ubs.com/2/e/files/RET/FS_RET_IE00B4JY5R22_CH_EN.pdf,pattern_guess
+iShares,Emerging Markets,iShares MSCI EM UCITS ETF,IEEM,IE00B0M63177,USD Dist,https://www.blackrock.com/gls-download/literature/fact-sheet/ieem-ishares-msci-em-ucits-etf-usd-dist-fund-fact-sheet-en-se.pdf,found
+iShares,Emerging Markets,iShares Core MSCI EM IMI UCITS ETF,EIMI,IE00BKM4GZ66,USD Acc,https://www.ishares.com/uk/individual/en/literature/fact-sheet/eimi-ishares-core-msci-em-imi-ucits-etf-fund-fact-sheet-en-gb.pdf,pattern_guess
+Vanguard,Emerging Markets,Vanguard FTSE Emerging Markets UCITS ETF,VFEA,IE00BK5BR733,USD Acc,https://fund-docs.vanguard.com/FTSE_Emerging_Markets_UCITS_ETF_USD_Accumulating_9678_EU_INT_EN.pdf,found
+Vanguard,Emerging Markets,Vanguard FTSE Emerging Markets UCITS ETF,VFEM,IE00B3VVMM84,USD Dist,https://fund-docs.vanguard.com/FTSE_Emerging_Markets_UCITS_ETF_USD_Distributing_9507_CH_RET_EN.pdf,found
+Xtrackers,Emerging Markets,Xtrackers MSCI Emerging Markets UCITS ETF,XMME,IE00BTJRMP35,1C,https://etf.dws.com/download/asset/de078545-737c-40ca-915b-59d076e18683,found
+Amundi,Emerging Markets,Amundi MSCI Emerging Markets UCITS ETF,AEEM,LU1681045370,EUR Acc,https://www.amundietf.com/pdfDocuments/monthly-factsheet/LU1681045370/ENG/LUX/INSTITUTIONNEL/ETF/20260930,pattern_guess
+UBS,Emerging Markets,UBS MSCI Emerging Markets UCITS ETF,EMMUSA,LU0950674175,USD acc,https://www.ubs.com/2/e/files/RET/FS_RET_LU0950674175_CH_EN.pdf,pattern_guess
+UBS,Emerging Markets,UBS MSCI Emerging Markets SF UCITS ETF,EMMSF,IE00B3Z3FS74,USD acc,https://www.ubs.com/2/e/files/RET/FS_RET_IE00B3Z3FS74_CH_EN.pdf,pattern_guess
+iShares,Europe,iShares Core MSCI Europe UCITS ETF,IMEU,IE00B1YZSC51,EUR Dist,https://www.ishares.com/uk/individual/en/literature/fact-sheet/imeu-ishares-core-msci-europe-ucits-etf-fund-fact-sheet-en-gb.pdf,pattern_guess
+iShares,Europe,iShares STOXX Europe 600 UCITS ETF,E600,IE000XSFZL82,EUR Acc,https://www.ishares.com/gls-download/literature/fact-sheet/e600-ishares-stoxx-europe-600-ucits-etf-fund-fact-sheet-en-gb.pdf,found
+Vanguard,Europe,Vanguard FTSE Developed Europe UCITS ETF,VEUA,IE00BK5BQX27,EUR Acc,https://fund-docs.vanguard.com/FTSE_Developed_Europe_UCITS_ETF_EUR_Accumulating_9681_EU_INT_EN.pdf,pattern_guess
+Vanguard,Europe,Vanguard FTSE Developed Europe UCITS ETF,VEUR,IE00B945VV12,EUR Dist,https://fund-docs.vanguard.com/FTSE_Developed_Europe_UCITS_ETF_EUR_Distributing_9520_EU_INT_EN.pdf,pattern_guess
+Xtrackers,Europe,Xtrackers MSCI Europe UCITS ETF,XMEU,LU0274209237,1C,https://etf.dws.com/download/asset/ebcaff3f-e4dd-4f05-86dc-04985b6f8039,found
+Xtrackers,Europe,Xtrackers STOXX Europe 600 UCITS ETF,XSX6,LU0328475792,1C,https://etf.dws.com/download/asset/d9b0a5c6-ea67-4e19-80b3-40c608f17cc5,found
+Amundi,Europe,Amundi Core STOXX Europe 600 UCITS ETF,MEUD,LU0908500753,Acc,https://www.amundietf.com/pdfDocuments/monthly-factsheet/LU0908500753/ENG/LUX/INSTITUTIONNEL/ETF/20260930,pattern_guess
+Amundi,Europe,Amundi MSCI Europe UCITS ETF,CEU,LU1681042609,EUR Acc,https://www.amundietf.com/pdfDocuments/monthly-factsheet/LU1681042609/ENG/LUX/INSTITUTIONNEL/ETF/20260930,pattern_guess
+UBS,Europe,UBS Core MSCI Europe UCITS ETF,UBSEU,LU0446734104,EUR dis,https://www.ubs.com/2/e/files/RET/FS_RET_LU0446734104_CH_EN.pdf,pattern_guess
+iShares,EUR Govt Bonds,iShares Core EUR Govt Bond UCITS ETF,IEGA,IE00B4WXJJ64,EUR Dist,https://www.ishares.com/gls-download/literature/fact-sheet/iega-ishares-core-govt-bond-ucits-etf-fund-fact-sheet-en-gb.pdf,found
+Vanguard,EUR Govt Bonds,Vanguard EUR Eurozone Government Bond UCITS ETF,VETY,IE00BZ163H91,EUR Dist,https://fund-docs.vanguard.com/EUR_Eurozone_Government_Bond_UCITS_ETF_EUR_Distributing_9660_EU_INT_EN.pdf,pattern_guess
+Xtrackers,EUR Govt Bonds,Xtrackers II Eurozone Government Bond UCITS ETF,XGLE,LU0290355717,1C,https://etf.dws.com/download/asset/e1d96d84-0c77-49f3-8944-cad67fcfce72,found
+Amundi,EUR Govt Bonds,Amundi Core Euro Government Bond UCITS ETF,MTXX,LU1437018598,Acc,https://www.amundietf.com/pdfDocuments/monthly-factsheet/LU1437018598/ENG/LUX/INSTITUTIONNEL/ETF/20260930,pattern_guess
+UBS,EUR Govt Bonds,UBS J.P. Morgan EMU Government ESG Liquid Bond UCITS ETF,,LU2194286006,EUR acc,https://www.ubs.com/2/e/files/RET/FS_RET_LU2194286006_CH_EN.pdf,pattern_guess
