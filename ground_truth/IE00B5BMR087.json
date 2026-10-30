@@ -10,7 +10,7 @@
   "replication": "physical",
   "distribution": "accumulating",
   "ter_pct": 0.07,
-  "fund_aum_m": 155627.72,
+  "fund_aum_m": 157627.72,
   "aum_currency": "USD",
   "sri": 6,
   "fund_1y_pct": 15.47,
@@ -18,11 +18,20 @@
   "fund_5y_pct": 13.48,
   "benchmark_1y_pct": 15.34,
   "benchmark_3y_pct": 22.41,
-  "benchmark_5y_pct": 13.30,
+  "benchmark_5y_pct": 13.3,
   "multi_year_annualised": true,
   "top_holdings": [
-    {"name": "NVIDIA", "weight_pct": 8.37},
-    {"name": "APPLE", "weight_pct": 7.36},
-    {"name": "MICROSOFT", "weight_pct": 5.77}
+    {
+      "name": "NVIDIA",
+      "weight_pct": 8.37
+    },
+    {
+      "name": "APPLE",
+      "weight_pct": 7.36
+    },
+    {
+      "name": "MICROSOFT",
+      "weight_pct": 5.77
+    }
   ]
 }

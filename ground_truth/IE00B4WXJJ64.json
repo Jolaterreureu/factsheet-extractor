@@ -16,13 +16,22 @@
   "fund_1y_pct": -3.01,
   "fund_3y_pct": 2.01,
   "fund_5y_pct": -2.99,
-  "benchmark_1y_pct": -3.00,
+  "benchmark_1y_pct": -3.0,
   "benchmark_3y_pct": 2.04,
   "benchmark_5y_pct": -2.94,
   "multi_year_annualised": true,
   "top_holdings": [
-    {"name": "FRANCE (REPUBLIC OF)", "weight_pct": 23.69},
-    {"name": "ITALY (REPUBLIC OF)", "weight_pct": 21.47},
-    {"name": "GERMANY (FEDERAL REPUBLIC OF)", "weight_pct": 19.36}
+    {
+      "name": "FRANCE (REPUBLIC OF)",
+      "weight_pct": 23.69
+    },
+    {
+      "name": "ITALY (REPUBLIC OF)",
+      "weight_pct": 21.47
+    },
+    {
+      "name": "GERMANY (FEDERAL REPUBLIC OF)",
+      "weight_pct": 19.36
+    }
   ]
 }
