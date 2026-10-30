@@ -1,0 +1,37 @@
+{
+  "fund_name": "UBS MSCI EM SF UCITS ETF 2016",
+  "isin": "IE00B3Z3FS74",
+  "issuer": "UBS Asset Management (Europe) S.A., Luxembourg",
+  "as_of_date": "2026-09-30",
+  "currency": "USD",
+  "domicile": null,
+  "inception_date": null,
+  "benchmark": null,
+  "replication": null,
+  "distribution": null,
+  "ter_pct": null,
+  "fund_aum_m": 176.14,
+  "aum_currency": null,
+  "sri": null,
+  "fund_1y_pct": null,
+  "fund_3y_pct": null,
+  "fund_5y_pct": 8.91,
+  "benchmark_1y_pct": null,
+  "benchmark_3y_pct": null,
+  "benchmark_5y_pct": null,
+  "multi_year_annualised": true,
+  "top_holdings": [
+    {
+      "name": "TAIWAN SEMICONDUCTOR MFG",
+      "weight_pct": 15.63
+    },
+    {
+      "name": "SAMSUNG ELECTRONICS CO",
+      "weight_pct": 7.55
+    },
+    {
+      "name": "SK HYNIX",
+      "weight_pct": 5.9
+    }
+  ]
+}

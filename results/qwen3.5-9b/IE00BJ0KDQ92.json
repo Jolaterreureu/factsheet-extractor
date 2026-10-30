@@ -1,0 +1,37 @@
+{
+  "fund_name": "Xtrackers MSCI World UCITS ETF 1C",
+  "isin": "IE00BJ0KDQ92",
+  "issuer": "Xtrackers (IE) Plc",
+  "as_of_date": "2026-09-30",
+  "currency": "USD",
+  "domicile": "Ireland",
+  "inception_date": null,
+  "benchmark": null,
+  "replication": null,
+  "distribution": null,
+  "ter_pct": null,
+  "fund_aum_m": 30970.0,
+  "aum_currency": null,
+  "sri": null,
+  "fund_1y_pct": null,
+  "fund_3y_pct": null,
+  "fund_5y_pct": null,
+  "benchmark_1y_pct": null,
+  "benchmark_3y_pct": null,
+  "benchmark_5y_pct": null,
+  "multi_year_annualised": false,
+  "top_holdings": [
+    {
+      "name": "NVIDIA",
+      "weight_pct": 5.77
+    },
+    {
+      "name": "APPLE",
+      "weight_pct": 5.46
+    },
+    {
+      "name": "MICROSOFT",
+      "weight_pct": 3.94
+    }
+  ]
+}

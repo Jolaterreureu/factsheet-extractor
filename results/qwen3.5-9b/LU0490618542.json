@@ -1,0 +1,37 @@
+{
+  "fund_name": "Xtrackers S&P 500 Swap UCITS ETF 1C",
+  "isin": "LU0490618542",
+  "issuer": "DWS Investments UK Limited",
+  "as_of_date": "2026-09-30",
+  "currency": "USD",
+  "domicile": "Luxembourg",
+  "inception_date": null,
+  "benchmark": null,
+  "replication": null,
+  "distribution": null,
+  "ter_pct": null,
+  "fund_aum_m": 9050.0,
+  "aum_currency": null,
+  "sri": null,
+  "fund_1y_pct": null,
+  "fund_3y_pct": null,
+  "fund_5y_pct": null,
+  "benchmark_1y_pct": null,
+  "benchmark_3y_pct": null,
+  "benchmark_5y_pct": null,
+  "multi_year_annualised": false,
+  "top_holdings": [
+    {
+      "name": "NVIDIA",
+      "weight_pct": 7.38
+    },
+    {
+      "name": "APPLE",
+      "weight_pct": 6.59
+    },
+    {
+      "name": "MICROSOFT",
+      "weight_pct": 4.38
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "fund_name": "UBS J.P. Morgan EMU Gov ESG Liquid Bond UCITS ETF EUR acc",
+  "isin": "LU2194286006",
+  "issuer": "UBS Asset Management (Europe) S.A., Luxembourg",
+  "as_of_date": "2026-09-30",
+  "currency": "EUR",
+  "domicile": null,
+  "inception_date": null,
+  "benchmark": null,
+  "replication": null,
+  "distribution": null,
+  "ter_pct": null,
+  "fund_aum_m": 13.59,
+  "aum_currency": null,
+  "sri": null,
+  "fund_1y_pct": null,
+  "fund_3y_pct": 6.77,
+  "fund_5y_pct": -15.94,
+  "benchmark_1y_pct": null,
+  "benchmark_3y_pct": null,
+  "benchmark_5y_pct": null,
+  "multi_year_annualised": true,
+  "top_holdings": [
+    {
+      "name": "Bundesrepublik Deutschland Bundesanleihe",
+      "weight_pct": 30.6
+    },
+    {
+      "name": "French Republic Government Bond OAT",
+      "weight_pct": 16.6
+    },
+    {
+      "name": "Spain Government Bond",
+      "weight_pct": 9.6
+    }
+  ]
+}

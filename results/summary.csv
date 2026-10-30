@@ -1,0 +1,2 @@
+run,accuracy,missed,wrong,hallucinated,avg_seconds
+qwen3.5-9b,0.527,167,35,6,23.8

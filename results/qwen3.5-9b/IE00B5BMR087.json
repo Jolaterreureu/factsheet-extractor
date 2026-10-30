@@ -1,0 +1,37 @@
+{
+  "fund_name": "iShares Core S&P 500 UCITS ETF",
+  "isin": "IE00B5BMR087",
+  "issuer": "iShares VII plc",
+  "as_of_date": "2026-09-30",
+  "currency": "USD",
+  "domicile": "Ireland",
+  "inception_date": null,
+  "benchmark": "S&P 500 Index",
+  "replication": null,
+  "distribution": null,
+  "ter_pct": null,
+  "fund_aum_m": 157627.72,
+  "aum_currency": null,
+  "sri": null,
+  "fund_1y_pct": 15.47,
+  "fund_3y_pct": 22.57,
+  "fund_5y_pct": 13.48,
+  "benchmark_1y_pct": null,
+  "benchmark_3y_pct": null,
+  "benchmark_5y_pct": null,
+  "multi_year_annualised": true,
+  "top_holdings": [
+    {
+      "name": "NVIDIA",
+      "weight_pct": 8.37
+    },
+    {
+      "name": "APPLE",
+      "weight_pct": 7.36
+    },
+    {
+      "name": "MICROSOFT",
+      "weight_pct": 5.77
+    }
+  ]
+}
