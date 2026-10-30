@@ -1,0 +1,28 @@
+{
+  "fund_name": "Vanguard FTSE Emerging Markets UCITS ETF",
+  "isin": "IE00B3VVMM84",
+  "issuer": "Vanguard",
+  "as_of_date": "2026-09-30",
+  "currency": "USD",
+  "domicile": "Ireland",
+  "inception_date": "2012-05-22",
+  "benchmark": "FTSE Emerging Index",
+  "replication": "physical",
+  "distribution": "distributing",
+  "ter_pct": 0.17,
+  "fund_aum_m": 5988,
+  "aum_currency": "USD",
+  "sri": 4,
+  "fund_1y_pct": 12.69,
+  "fund_3y_pct": 18.34,
+  "fund_5y_pct": 6.58,
+  "benchmark_1y_pct": 12.57,
+  "benchmark_3y_pct": 18.61,
+  "benchmark_5y_pct": 6.85,
+  "multi_year_annualised": true,
+  "top_holdings": [
+    {"name": "Taiwan Semiconductor Manufacturing Co. Ltd.", "weight_pct": 17.9},
+    {"name": "Tencent Holdings Ltd.", "weight_pct": 3.2},
+    {"name": "Alibaba Group Holding Ltd.", "weight_pct": 2.4}
+  ]
+}
