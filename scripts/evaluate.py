@@ -7,7 +7,7 @@ import pandas as pd
 from factsheet.evaluate import outcome
 
 parser = argparse.ArgumentParser()
-parser.add_argument("run", nargs="?", default="qwen3.5-9b", help="folder name in results/")
+parser.add_argument("run", nargs="?", default="qwen3.5-9b-v2", help="folder name in results/")
 args = parser.parse_args()
 run_dir = Path("results") / args.run
 
