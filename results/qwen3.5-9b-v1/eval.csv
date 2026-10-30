@@ -292,7 +292,7 @@ LU0290355717,Xtrackers,as_of_date,2026-09-30,2026-09-30,correct
 LU0290355717,Xtrackers,currency,EUR,EUR,correct
 LU0290355717,Xtrackers,domicile,Luxembourg,Luxembourg,correct
 LU0290355717,Xtrackers,inception_date,2007-05-22,,missed
-LU0290355717,Xtrackers,benchmark,Markit Indices Limited,,missed
+LU0290355717,Xtrackers,benchmark,IBOXX® € SOVEREIGNS EUROZONE INDEX,,missed
 LU0290355717,Xtrackers,replication,physical,,missed
 LU0290355717,Xtrackers,distribution,accumulating,,missed
 LU0290355717,Xtrackers,ter_pct,0.07,,missed

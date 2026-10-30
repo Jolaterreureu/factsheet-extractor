@@ -38,3 +38,7 @@ def test_holdings_match_on_first_word_and_weight():
     truth = [{"name": "NVIDIA Corp.", "weight_pct": 8.4}, {"name": "Apple Inc.", "weight_pct": 7.4}]
     assert outcome("top_holdings", [{"name": "NVIDIA", "weight_pct": 8.4}, {"name": "APPLE", "weight_pct": 7.4}], truth) == "correct"
     assert outcome("top_holdings", [{"name": "NVIDIA", "weight_pct": 8.4}], truth) == "wrong"
+
+
+def test_trademark_symbols_are_ignored():
+    assert outcome("benchmark", "S&P 500 Net Total Return Index", "S&P 500® Net Total Return") == "correct"

@@ -1,0 +1,37 @@
+{
+  "fund_name": "iShares Core € Govt Bond UCITS ETF Euro (Distributing)",
+  "isin": "IE00B4WXJJ64",
+  "issuer": "iShares",
+  "as_of_date": "2026-09-30",
+  "currency": "EUR",
+  "domicile": "Ireland",
+  "inception_date": "2009-04-17",
+  "benchmark": "Bloomberg Euro Treasury Bond Index",
+  "replication": "physical",
+  "distribution": "distributing",
+  "ter_pct": 0.07,
+  "fund_aum_m": 6062.58,
+  "aum_currency": "EUR",
+  "sri": null,
+  "fund_1y_pct": -3.01,
+  "fund_3y_pct": 2.01,
+  "fund_5y_pct": -2.99,
+  "benchmark_1y_pct": -3.0,
+  "benchmark_3y_pct": 2.04,
+  "benchmark_5y_pct": -2.94,
+  "multi_year_annualised": true,
+  "top_holdings": [
+    {
+      "name": "FRANCE (REPUBLIC OF)",
+      "weight_pct": 23.69
+    },
+    {
+      "name": "ITALY (REPUBLIC OF)",
+      "weight_pct": 21.47
+    },
+    {
+      "name": "GERMANY (FEDERAL REPUBLIC OF)",
+      "weight_pct": 19.36
+    }
+  ]
+}

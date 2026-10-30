@@ -4,7 +4,7 @@ PREFIX_FIELDS = {"fund_name", "benchmark"}
 
 
 def normalize(value) -> str:
-    text = str(value).lower().replace("(", " ").replace(")", " ")
+    text = str(value).lower().replace("(", " ").replace(")", " ").replace("®", "").replace("™", "")
     return " ".join(text.split())
 
 

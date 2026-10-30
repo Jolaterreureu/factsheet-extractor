@@ -1,0 +1,37 @@
+{
+  "fund_name": "UBS Core MSCI World UCITS ETF USD acc",
+  "isin": "IE00BD4TXV59",
+  "issuer": "UBS",
+  "as_of_date": "2026-08-31",
+  "currency": "USD",
+  "domicile": "Ireland",
+  "inception_date": "2019-06-07",
+  "benchmark": "MSCI World Total Return Net",
+  "replication": "physical",
+  "distribution": "accumulating",
+  "ter_pct": 0.06,
+  "fund_aum_m": 17446.66,
+  "aum_currency": "USD",
+  "sri": null,
+  "fund_1y_pct": -18.26,
+  "fund_3y_pct": 12.08,
+  "fund_5y_pct": 15.21,
+  "benchmark_1y_pct": -18.14,
+  "benchmark_3y_pct": 12.07,
+  "benchmark_5y_pct": 15.19,
+  "multi_year_annualised": true,
+  "top_holdings": [
+    {
+      "name": "NVIDIA CORP COMMON STOCK USD.001",
+      "weight_pct": 5.56
+    },
+    {
+      "name": "APPLE INC COMMON STOCK USD.00001",
+      "weight_pct": 5.07
+    },
+    {
+      "name": "MICROSOFT CORP COMMON STOCK USD.00000625",
+      "weight_pct": 3.9
+    }
+  ]
+}
