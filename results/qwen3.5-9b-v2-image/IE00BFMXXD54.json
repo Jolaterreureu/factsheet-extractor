@@ -1,0 +1,37 @@
+{
+  "fund_name": "Vanguard S&P 500 UCITS ETF (USD) Accumulating - An exchange-traded fund",
+  "isin": "IE00BFMXXD54",
+  "issuer": "Vanguard",
+  "as_of_date": "2026-09-30",
+  "currency": "USD",
+  "domicile": "Ireland",
+  "inception_date": "2019-05-14",
+  "benchmark": "S&P 500 Net Total Return",
+  "replication": "physical",
+  "distribution": "accumulating",
+  "ter_pct": 0.07,
+  "fund_aum_m": 88973.1,
+  "aum_currency": "USD",
+  "sri": 4,
+  "fund_1y_pct": 15.46,
+  "fund_3y_pct": 22.57,
+  "fund_5y_pct": 13.48,
+  "benchmark_1y_pct": 15.34,
+  "benchmark_3y_pct": 22.41,
+  "benchmark_5y_pct": 13.3,
+  "multi_year_annualised": true,
+  "top_holdings": [
+    {
+      "name": "NVIDIA Corp.",
+      "weight_pct": 8.4
+    },
+    {
+      "name": "Apple Inc.",
+      "weight_pct": 7.4
+    },
+    {
+      "name": "Microsoft Corp.",
+      "weight_pct": 5.8
+    }
+  ]
+}

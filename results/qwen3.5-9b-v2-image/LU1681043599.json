@@ -1,0 +1,37 @@
+{
+  "fund_name": "Amundi MSCI World Swap UCITS ETF EUR Acc",
+  "isin": "LU1681043599",
+  "issuer": "Amundi",
+  "as_of_date": "2026-09-30",
+  "currency": "EUR",
+  "domicile": null,
+  "inception_date": "2009-06-16",
+  "benchmark": "MSCI WORLD",
+  "replication": "synthetic",
+  "distribution": "accumulating",
+  "ter_pct": 0.38,
+  "fund_aum_m": 7199.85,
+  "aum_currency": "EUR",
+  "sri": 4,
+  "fund_1y_pct": 18.79,
+  "fund_3y_pct": 65.42,
+  "fund_5y_pct": 77.07,
+  "benchmark_1y_pct": 19.21,
+  "benchmark_3y_pct": 66.78,
+  "benchmark_5y_pct": 78.93,
+  "multi_year_annualised": true,
+  "top_holdings": [
+    {
+      "name": "NVIDIA CORP",
+      "weight_pct": 5.77
+    },
+    {
+      "name": "APPLE INC",
+      "weight_pct": 5.34
+    },
+    {
+      "name": "MICROSOFT CORP",
+      "weight_pct": 3.97
+    }
+  ]
+}
