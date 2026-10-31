@@ -1,0 +1,441 @@
+isin,issuer,field,truth,pred,outcome
+IE00B3VVMM84,Vanguard,fund_name,Vanguard FTSE Emerging Markets UCITS ETF,Vanguard FTSE Emerging Markets UCITS ETF (USD) Distributing,correct
+IE00B3VVMM84,Vanguard,isin,IE00B3VVMM84,IE00B3VVMM84,correct
+IE00B3VVMM84,Vanguard,issuer,Vanguard,Vanguard,correct
+IE00B3VVMM84,Vanguard,as_of_date,2026-09-30,2026-09-30,correct
+IE00B3VVMM84,Vanguard,currency,USD,USD,correct
+IE00B3VVMM84,Vanguard,domicile,Ireland,Ireland,correct
+IE00B3VVMM84,Vanguard,inception_date,2012-05-22,2012-05-22,correct
+IE00B3VVMM84,Vanguard,benchmark,FTSE Emerging Index,FTSE Emerging Index,correct
+IE00B3VVMM84,Vanguard,replication,physical,physical,correct
+IE00B3VVMM84,Vanguard,distribution,distributing,distributing,correct
+IE00B3VVMM84,Vanguard,ter_pct,0.17,0.17,correct
+IE00B3VVMM84,Vanguard,fund_aum_m,5988,3581.0,wrong
+IE00B3VVMM84,Vanguard,aum_currency,USD,USD,correct
+IE00B3VVMM84,Vanguard,sri,4,4,correct
+IE00B3VVMM84,Vanguard,fund_1y_pct,12.69,10.88,wrong
+IE00B3VVMM84,Vanguard,fund_3y_pct,18.34,12.69,wrong
+IE00B3VVMM84,Vanguard,fund_5y_pct,6.58,18.34,wrong
+IE00B3VVMM84,Vanguard,benchmark_1y_pct,12.57,10.58,wrong
+IE00B3VVMM84,Vanguard,benchmark_3y_pct,18.61,12.57,wrong
+IE00B3VVMM84,Vanguard,benchmark_5y_pct,6.85,18.61,wrong
+IE00B3VVMM84,Vanguard,multi_year_annualised,True,True,correct
+IE00B3VVMM84,Vanguard,top_holdings,"[{'name': 'Taiwan Semiconductor Manufacturing Co. Ltd.', 'weight_pct': 17.9}, {'name': 'Tencent Holdings Ltd.', 'weight_pct': 3.2}, {'name': 'Alibaba Group Holding Ltd.', 'weight_pct': 2.4}]","[{'name': 'Taiwan Semiconductor Manufacturing Co. Ltd.', 'weight_pct': 17.9}, {'name': 'Tencent Holdings Ltd.', 'weight_pct': 3.2}, {'name': 'Alibaba Group Holding Ltd.', 'weight_pct': 2.4}]",correct
+IE00B3Z3FS74,UBS,fund_name,UBS MSCI EM SF UCITS ETF USD acc,UBS MSCI EM SF UCITS ETF USD acc,correct
+IE00B3Z3FS74,UBS,isin,IE00B3Z3FS74,IE00B3Z3FS74,correct
+IE00B3Z3FS74,UBS,issuer,UBS,UBS,correct
+IE00B3Z3FS74,UBS,as_of_date,2026-09-30,2026-09-30,correct
+IE00B3Z3FS74,UBS,currency,USD,USD,correct
+IE00B3Z3FS74,UBS,domicile,Ireland,Ireland,correct
+IE00B3Z3FS74,UBS,inception_date,2011-04-27,2011-04-27,correct
+IE00B3Z3FS74,UBS,benchmark,MSCI Emerging Markets Total Return Net,MSCI Emerging Markets Total Return Net,correct
+IE00B3Z3FS74,UBS,replication,synthetic,synthetic,correct
+IE00B3Z3FS74,UBS,distribution,accumulating,accumulating,correct
+IE00B3Z3FS74,UBS,ter_pct,0.14,0.14,correct
+IE00B3Z3FS74,UBS,fund_aum_m,176.14,176.14,correct
+IE00B3Z3FS74,UBS,aum_currency,USD,USD,correct
+IE00B3Z3FS74,UBS,sri,,,correct
+IE00B3Z3FS74,UBS,fund_1y_pct,,-0.56,hallucinated
+IE00B3Z3FS74,UBS,fund_3y_pct,,8.91,hallucinated
+IE00B3Z3FS74,UBS,fund_5y_pct,8.91,23.37,wrong
+IE00B3Z3FS74,UBS,benchmark_1y_pct,,-0.56,hallucinated
+IE00B3Z3FS74,UBS,benchmark_3y_pct,,8.94,hallucinated
+IE00B3Z3FS74,UBS,benchmark_5y_pct,8.94,23.38,wrong
+IE00B3Z3FS74,UBS,multi_year_annualised,True,True,correct
+IE00B3Z3FS74,UBS,top_holdings,"[{'name': 'TAIWAN SEMICONDUCTOR MFG', 'weight_pct': 15.63}, {'name': 'SAMSUNG ELECTRONICS CO', 'weight_pct': 7.55}, {'name': 'SK HYNIX', 'weight_pct': 5.9}]","[{'name': 'TAIWAN SEMICONDUCTOR MFG', 'weight_pct': 15.63}, {'name': 'SAMSUNG ELECTRONICS CO', 'weight_pct': 7.55}, {'name': 'SK HYNIX', 'weight_pct': 5.9}]",correct
+IE00B4L5Y983,iShares,fund_name,iShares Core MSCI World UCITS ETF,iShares Core MSCI World UCITS ETF U.S. Dollar (Accumulating),correct
+IE00B4L5Y983,iShares,isin,IE00B4L5Y983,IE00B4L5Y983,correct
+IE00B4L5Y983,iShares,issuer,iShares,iShares,correct
+IE00B4L5Y983,iShares,as_of_date,2026-09-30,2026-09-30,correct
+IE00B4L5Y983,iShares,currency,USD,USD,correct
+IE00B4L5Y983,iShares,domicile,Ireland,Ireland,correct
+IE00B4L5Y983,iShares,inception_date,2009-09-25,2009-09-25,correct
+IE00B4L5Y983,iShares,benchmark,MSCI World Index (Net),MSCI World Index (Net),correct
+IE00B4L5Y983,iShares,replication,physical,physical,correct
+IE00B4L5Y983,iShares,distribution,accumulating,accumulating,correct
+IE00B4L5Y983,iShares,ter_pct,0.2,0.2,correct
+IE00B4L5Y983,iShares,fund_aum_m,151362.25,147192.36,wrong
+IE00B4L5Y983,iShares,aum_currency,USD,USD,correct
+IE00B4L5Y983,iShares,sri,6,4,wrong
+IE00B4L5Y983,iShares,fund_1y_pct,15.25,15.25,correct
+IE00B4L5Y983,iShares,fund_3y_pct,21.43,21.43,correct
+IE00B4L5Y983,iShares,fund_5y_pct,11.95,11.95,correct
+IE00B4L5Y983,iShares,benchmark_1y_pct,15.24,15.24,correct
+IE00B4L5Y983,iShares,benchmark_3y_pct,21.4,21.4,correct
+IE00B4L5Y983,iShares,benchmark_5y_pct,11.89,11.89,correct
+IE00B4L5Y983,iShares,multi_year_annualised,True,True,correct
+IE00B4L5Y983,iShares,top_holdings,"[{'name': 'NVIDIA', 'weight_pct': 5.79}, {'name': 'APPLE', 'weight_pct': 5.39}, {'name': 'MICROSOFT', 'weight_pct': 3.99}]","[{'name': 'NVIDIA', 'weight_pct': 5.79}, {'name': 'APPLE', 'weight_pct': 5.39}, {'name': 'MICROSOFT', 'weight_pct': 3.99}]",correct
+IE00B4WXJJ64,iShares,fund_name,iShares Core € Govt Bond UCITS ETF,iShares Core € Govt Bond UCITS ETF Euro (Distributing),correct
+IE00B4WXJJ64,iShares,isin,IE00B4WXJJ64,IE00B4WXJJ64,correct
+IE00B4WXJJ64,iShares,issuer,iShares,iShares,correct
+IE00B4WXJJ64,iShares,as_of_date,2026-09-30,2026-09-30,correct
+IE00B4WXJJ64,iShares,currency,EUR,EUR,correct
+IE00B4WXJJ64,iShares,domicile,Ireland,Ireland,correct
+IE00B4WXJJ64,iShares,inception_date,2009-04-17,2009-04-17,correct
+IE00B4WXJJ64,iShares,benchmark,Bloomberg Euro Treasury Bond Index,Bloomberg Euro Treasury Bond Index,correct
+IE00B4WXJJ64,iShares,replication,physical,physical,correct
+IE00B4WXJJ64,iShares,distribution,distributing,distributing,correct
+IE00B4WXJJ64,iShares,ter_pct,0.07,0.07,correct
+IE00B4WXJJ64,iShares,fund_aum_m,6062.58,6062.58,correct
+IE00B4WXJJ64,iShares,aum_currency,EUR,EUR,correct
+IE00B4WXJJ64,iShares,sri,4,,missed
+IE00B4WXJJ64,iShares,fund_1y_pct,-3.01,-3.01,correct
+IE00B4WXJJ64,iShares,fund_3y_pct,2.01,2.01,correct
+IE00B4WXJJ64,iShares,fund_5y_pct,-2.99,-2.99,correct
+IE00B4WXJJ64,iShares,benchmark_1y_pct,-3.0,-3.0,correct
+IE00B4WXJJ64,iShares,benchmark_3y_pct,2.04,2.04,correct
+IE00B4WXJJ64,iShares,benchmark_5y_pct,-2.94,-2.94,correct
+IE00B4WXJJ64,iShares,multi_year_annualised,True,True,correct
+IE00B4WXJJ64,iShares,top_holdings,"[{'name': 'FRANCE (REPUBLIC OF)', 'weight_pct': 23.69}, {'name': 'ITALY (REPUBLIC OF)', 'weight_pct': 21.47}, {'name': 'GERMANY (FEDERAL REPUBLIC OF)', 'weight_pct': 19.36}]","[{'name': 'FRANCE (REPUBLIC OF)', 'weight_pct': 23.69}, {'name': 'ITALY (REPUBLIC OF)', 'weight_pct': 21.47}, {'name': 'GERMANY (FEDERAL REPUBLIC OF)', 'weight_pct': 19.36}]",correct
+IE00B5BMR087,iShares,fund_name,iShares Core S&P 500 UCITS ETF,iShares Core S&P 500 UCITS ETF U.S. Dollar (Accumulating),correct
+IE00B5BMR087,iShares,isin,IE00B5BMR087,IE00B5BMR087,correct
+IE00B5BMR087,iShares,issuer,iShares,iShares,correct
+IE00B5BMR087,iShares,as_of_date,2026-09-30,2026-09-30,correct
+IE00B5BMR087,iShares,currency,USD,USD,correct
+IE00B5BMR087,iShares,domicile,Ireland,Ireland,correct
+IE00B5BMR087,iShares,inception_date,2010-05-19,2010-05-18,wrong
+IE00B5BMR087,iShares,benchmark,S&P 500 Index,S&P 500 Index,correct
+IE00B5BMR087,iShares,replication,physical,physical,correct
+IE00B5BMR087,iShares,distribution,accumulating,accumulating,correct
+IE00B5BMR087,iShares,ter_pct,0.07,0.07,correct
+IE00B5BMR087,iShares,fund_aum_m,157627.72,157627.72,correct
+IE00B5BMR087,iShares,aum_currency,USD,USD,correct
+IE00B5BMR087,iShares,sri,6,4,wrong
+IE00B5BMR087,iShares,fund_1y_pct,15.47,15.47,correct
+IE00B5BMR087,iShares,fund_3y_pct,22.57,22.57,correct
+IE00B5BMR087,iShares,fund_5y_pct,13.48,13.48,correct
+IE00B5BMR087,iShares,benchmark_1y_pct,15.34,15.34,correct
+IE00B5BMR087,iShares,benchmark_3y_pct,22.41,22.41,correct
+IE00B5BMR087,iShares,benchmark_5y_pct,13.3,13.3,correct
+IE00B5BMR087,iShares,multi_year_annualised,True,False,wrong
+IE00B5BMR087,iShares,top_holdings,"[{'name': 'NVIDIA', 'weight_pct': 8.37}, {'name': 'APPLE', 'weight_pct': 7.36}, {'name': 'MICROSOFT', 'weight_pct': 5.77}]","[{'name': 'NVIDIA', 'weight_pct': 8.37}, {'name': 'APPLE', 'weight_pct': 7.36}, {'name': 'MICROSOFT', 'weight_pct': 5.77}]",correct
+IE00B7K93397,UBS,fund_name,UBS Core S&P 500 UCITS ETF USD dis,UBS Core S&P 500 UCITS ETF USD dis,correct
+IE00B7K93397,UBS,isin,IE00B7K93397,IE00B7K93397,correct
+IE00B7K93397,UBS,issuer,UBS,UBS,correct
+IE00B7K93397,UBS,as_of_date,2026-08-31,2026-08-31,correct
+IE00B7K93397,UBS,currency,USD,USD,correct
+IE00B7K93397,UBS,domicile,Ireland,Ireland,correct
+IE00B7K93397,UBS,inception_date,2012-04-11,2012-04-11,correct
+IE00B7K93397,UBS,benchmark,S&P 500 Total Return Net,S&P 500 Total Return Net,correct
+IE00B7K93397,UBS,replication,physical,physical,correct
+IE00B7K93397,UBS,distribution,distributing,distributing,correct
+IE00B7K93397,UBS,ter_pct,0.03,0.03,correct
+IE00B7K93397,UBS,fund_aum_m,4896.8,1428.52,wrong
+IE00B7K93397,UBS,aum_currency,USD,USD,correct
+IE00B7K93397,UBS,sri,,,correct
+IE00B7K93397,UBS,fund_1y_pct,,-18.39,hallucinated
+IE00B7K93397,UBS,fund_3y_pct,,25.84,hallucinated
+IE00B7K93397,UBS,fund_5y_pct,12.46,24.66,wrong
+IE00B7K93397,UBS,benchmark_1y_pct,,-18.51,hallucinated
+IE00B7K93397,UBS,benchmark_3y_pct,,25.67,hallucinated
+IE00B7K93397,UBS,benchmark_5y_pct,12.31,24.5,wrong
+IE00B7K93397,UBS,multi_year_annualised,True,False,wrong
+IE00B7K93397,UBS,top_holdings,"[{'name': 'NVIDIA CORP COMMON STOCK USD.001', 'weight_pct': 8.09}, {'name': 'APPLE INC COMMON STOCK USD.00001', 'weight_pct': 7.04}, {'name': 'MICROSOFT CORP COMMON STOCK USD.00000625', 'weight_pct': 5.7}]","[{'name': 'NVIDIA CORP COMMON STOCK USD.001', 'weight_pct': 8.09}, {'name': 'APPLE INC COMMON STOCK USD.00001', 'weight_pct': 7.04}, {'name': 'MICROSOFT CORP COMMON STOCK USD.00000625', 'weight_pct': 5.7}]",correct
+IE00BD4TXV59,UBS,fund_name,UBS Core MSCI World UCITS ETF USD acc,UBS Core MSCI World UCITS ETF USD acc,correct
+IE00BD4TXV59,UBS,isin,IE00BD4TXV59,IE00BD4TXV59,correct
+IE00BD4TXV59,UBS,issuer,UBS,UBS,correct
+IE00BD4TXV59,UBS,as_of_date,2026-08-31,2026-08-31,correct
+IE00BD4TXV59,UBS,currency,USD,USD,correct
+IE00BD4TXV59,UBS,domicile,Ireland,Ireland,correct
+IE00BD4TXV59,UBS,inception_date,2019-06-07,2019-06-07,correct
+IE00BD4TXV59,UBS,benchmark,MSCI World Total Return Net,MSCI World Total Return Net,correct
+IE00BD4TXV59,UBS,replication,physical,physical,correct
+IE00BD4TXV59,UBS,distribution,accumulating,accumulating,correct
+IE00BD4TXV59,UBS,ter_pct,0.06,0.06,correct
+IE00BD4TXV59,UBS,fund_aum_m,17446.66,17446.66,correct
+IE00BD4TXV59,UBS,aum_currency,USD,USD,correct
+IE00BD4TXV59,UBS,sri,,,correct
+IE00BD4TXV59,UBS,fund_1y_pct,,-18.26,hallucinated
+IE00BD4TXV59,UBS,fund_3y_pct,,15.21,hallucinated
+IE00BD4TXV59,UBS,fund_5y_pct,11.27,11.27,correct
+IE00BD4TXV59,UBS,benchmark_1y_pct,,-18.14,hallucinated
+IE00BD4TXV59,UBS,benchmark_3y_pct,,15.19,hallucinated
+IE00BD4TXV59,UBS,benchmark_5y_pct,11.21,11.21,correct
+IE00BD4TXV59,UBS,multi_year_annualised,True,True,correct
+IE00BD4TXV59,UBS,top_holdings,"[{'name': 'NVIDIA CORP COMMON STOCK USD.001', 'weight_pct': 5.56}, {'name': 'APPLE INC COMMON STOCK USD.00001 ', 'weight_pct': 5.07}, {'name': 'MICROSOFT CORP COMMON STOCK USD.00000625', 'weight_pct': 3.9}]","[{'name': 'NVIDIA CORP COMMON STOCK USD.001', 'weight_pct': 5.56}, {'name': 'APPLE INC COMMON STOCK USD.00001', 'weight_pct': 5.07}, {'name': 'MICROSOFT CORP COMMON STOCK USD.00000625', 'weight_pct': 3.9}]",correct
+IE00BFMXXD54,Vanguard,fund_name,Vanguard S&P 500 UCITS ETF,Vanguard S&P 500 UCITS ETF (USD) Accumulating,correct
+IE00BFMXXD54,Vanguard,isin,IE00BFMXXD54,IE00BFMXXD54,correct
+IE00BFMXXD54,Vanguard,issuer,Vanguard,Vanguard,correct
+IE00BFMXXD54,Vanguard,as_of_date,2026-09-30,2026-09-30,correct
+IE00BFMXXD54,Vanguard,currency,USD,USD,correct
+IE00BFMXXD54,Vanguard,domicile,Ireland,Ireland,correct
+IE00BFMXXD54,Vanguard,inception_date,2019-05-14,2019-05-14,correct
+IE00BFMXXD54,Vanguard,benchmark,S&P 500 Net Total Return,S&P 500 Net Total Return,correct
+IE00BFMXXD54,Vanguard,replication,physical,physical,correct
+IE00BFMXXD54,Vanguard,distribution,accumulating,accumulating,correct
+IE00BFMXXD54,Vanguard,ter_pct,0.07,0.07,correct
+IE00BFMXXD54,Vanguard,fund_aum_m,88973,88973.0,correct
+IE00BFMXXD54,Vanguard,aum_currency,USD,USD,correct
+IE00BFMXXD54,Vanguard,sri,4,,missed
+IE00BFMXXD54,Vanguard,fund_1y_pct,15.46,12.55,wrong
+IE00BFMXXD54,Vanguard,fund_3y_pct,22.57,15.46,wrong
+IE00BFMXXD54,Vanguard,fund_5y_pct,13.48,22.57,wrong
+IE00BFMXXD54,Vanguard,benchmark_1y_pct,15.34,12.45,wrong
+IE00BFMXXD54,Vanguard,benchmark_3y_pct,22.41,15.34,wrong
+IE00BFMXXD54,Vanguard,benchmark_5y_pct,13.3,22.41,wrong
+IE00BFMXXD54,Vanguard,multi_year_annualised,True,True,correct
+IE00BFMXXD54,Vanguard,top_holdings,"[{'name': 'NVIDIA Corp.', 'weight_pct': 8.4}, {'name': 'Apple Inc.', 'weight_pct': 7.4}, {'name': 'Microsoft Corp.', 'weight_pct': 5.8}]","[{'name': 'NVIDIA Corp.', 'weight_pct': 8.4}, {'name': 'Apple Inc.', 'weight_pct': 7.4}, {'name': 'Microsoft Corp.', 'weight_pct': 5.8}]",correct
+IE00BJ0KDQ92,Xtrackers,fund_name,Xtrackers MSCI World UCITS ETF 1C,Xtrackers MSCI World UCITS ETF 1C,correct
+IE00BJ0KDQ92,Xtrackers,isin,IE00BJ0KDQ92,IE00BJ0KDQ92,correct
+IE00BJ0KDQ92,Xtrackers,issuer,Xtrackers,Xtrackers,correct
+IE00BJ0KDQ92,Xtrackers,as_of_date,2026-09-30,2026-09-30,correct
+IE00BJ0KDQ92,Xtrackers,currency,USD,USD,correct
+IE00BJ0KDQ92,Xtrackers,domicile,Ireland,Ireland,correct
+IE00BJ0KDQ92,Xtrackers,inception_date,2014-07-22,2014-07-22,correct
+IE00BJ0KDQ92,Xtrackers,benchmark,MSCI Total Return Net World Index,MSCI Total Return Net World Index,correct
+IE00BJ0KDQ92,Xtrackers,replication,physical,physical,correct
+IE00BJ0KDQ92,Xtrackers,distribution,accumulating,accumulating,correct
+IE00BJ0KDQ92,Xtrackers,ter_pct,0.12,0.12,correct
+IE00BJ0KDQ92,Xtrackers,fund_aum_m,30970,30970.0,correct
+IE00BJ0KDQ92,Xtrackers,aum_currency,USD,USD,correct
+IE00BJ0KDQ92,Xtrackers,sri,,,correct
+IE00BJ0KDQ92,Xtrackers,fund_1y_pct,,,correct
+IE00BJ0KDQ92,Xtrackers,fund_3y_pct,,,correct
+IE00BJ0KDQ92,Xtrackers,fund_5y_pct,,,correct
+IE00BJ0KDQ92,Xtrackers,benchmark_1y_pct,,,correct
+IE00BJ0KDQ92,Xtrackers,benchmark_3y_pct,,,correct
+IE00BJ0KDQ92,Xtrackers,benchmark_5y_pct,,,correct
+IE00BJ0KDQ92,Xtrackers,multi_year_annualised,,,correct
+IE00BJ0KDQ92,Xtrackers,top_holdings,"[{'name': 'NVIDIA', 'weight_pct': 5.77}, {'name': 'APPLE', 'weight_pct': 5.46}, {'name': 'MICROSOFT', 'weight_pct': 3.94}]","[{'name': 'NVIDIA', 'weight_pct': 5.77}, {'name': 'APPLE', 'weight_pct': 5.46}, {'name': 'MICROSOFT', 'weight_pct': 3.94}]",correct
+IE00BK5BQX27,Vanguard,fund_name,Vanguard FTSE Developed Europe UCITS ETF,Vanguard FTSE Developed Europe UCITS ETF (EUR) Accumulating,correct
+IE00BK5BQX27,Vanguard,isin,IE00BK5BQX27,IE00BK5BQX27,correct
+IE00BK5BQX27,Vanguard,issuer,Vanguard,Vanguard,correct
+IE00BK5BQX27,Vanguard,as_of_date,2026-09-30,2026-09-30,correct
+IE00BK5BQX27,Vanguard,currency,EUR,EUR,correct
+IE00BK5BQX27,Vanguard,domicile,Ireland,Ireland,correct
+IE00BK5BQX27,Vanguard,inception_date,2019-07-23,2019-07-23,correct
+IE00BK5BQX27,Vanguard,benchmark,FTSE Developed Europe Index,FTSE Developed Europe Index,correct
+IE00BK5BQX27,Vanguard,replication,physical,physical,correct
+IE00BK5BQX27,Vanguard,distribution,accumulating,accumulating,correct
+IE00BK5BQX27,Vanguard,ter_pct,0.1,0.1,correct
+IE00BK5BQX27,Vanguard,fund_aum_m,7761,7761.0,correct
+IE00BK5BQX27,Vanguard,aum_currency,EUR,EUR,correct
+IE00BK5BQX27,Vanguard,sri,4,4,correct
+IE00BK5BQX27,Vanguard,fund_1y_pct,16.93,9.8,wrong
+IE00BK5BQX27,Vanguard,fund_3y_pct,15.39,16.93,wrong
+IE00BK5BQX27,Vanguard,fund_5y_pct,10.18,15.39,wrong
+IE00BK5BQX27,Vanguard,benchmark_1y_pct,16.6,9.53,wrong
+IE00BK5BQX27,Vanguard,benchmark_3y_pct,15.07,16.6,wrong
+IE00BK5BQX27,Vanguard,benchmark_5y_pct,9.85,15.07,wrong
+IE00BK5BQX27,Vanguard,multi_year_annualised,True,True,correct
+IE00BK5BQX27,Vanguard,top_holdings,"[{'name': 'ASML Holding NV', 'weight_pct': 4.9}, {'name': 'HSBC Holdings plc', 'weight_pct': 2.4}, {'name': 'Roche Holding AG', 'weight_pct': 2.2}]","[{'name': 'ASML Holding NV', 'weight_pct': 4.9}, {'name': 'HSBC Holdings plc', 'weight_pct': 2.4}, {'name': 'Roche Holding AG', 'weight_pct': 2.2}]",correct
+IE00BKM4GZ66,iShares,fund_name,iShares Core MSCI EM IMI UCITS ETF,iShares Core MSCI EM IMI UCITS ETF U.S. Dollar (Accumulating),correct
+IE00BKM4GZ66,iShares,isin,IE00BKM4GZ66,IE00BKM4GZ66,correct
+IE00BKM4GZ66,iShares,issuer,iShares,iShares,correct
+IE00BKM4GZ66,iShares,as_of_date,2026-09-30,2026-09-30,correct
+IE00BKM4GZ66,iShares,currency,USD,USD,correct
+IE00BKM4GZ66,iShares,domicile,Ireland,Ireland,correct
+IE00BKM4GZ66,iShares,inception_date,2014-05-30,2014-05-30,correct
+IE00BKM4GZ66,iShares,benchmark,MSCI Emerging Markets Investable Market Index (USD) (Net),MSCI Emerging Markets Investable Market Index (USD) (Net),correct
+IE00BKM4GZ66,iShares,replication,physical,physical,correct
+IE00BKM4GZ66,iShares,distribution,accumulating,accumulating,correct
+IE00BKM4GZ66,iShares,ter_pct,0.18,0.18,correct
+IE00BKM4GZ66,iShares,fund_aum_m,46803.99,46803.99,correct
+IE00BKM4GZ66,iShares,aum_currency,USD,USD,correct
+IE00BKM4GZ66,iShares,sri,6,4,wrong
+IE00BKM4GZ66,iShares,fund_1y_pct,27.19,27.19,correct
+IE00BKM4GZ66,iShares,fund_3y_pct,22.95,22.95,correct
+IE00BKM4GZ66,iShares,fund_5y_pct,8.8,8.8,correct
+IE00BKM4GZ66,iShares,benchmark_1y_pct,27.3,27.3,correct
+IE00BKM4GZ66,iShares,benchmark_3y_pct,22.87,22.87,correct
+IE00BKM4GZ66,iShares,benchmark_5y_pct,8.76,8.76,correct
+IE00BKM4GZ66,iShares,multi_year_annualised,True,True,correct
+IE00BKM4GZ66,iShares,top_holdings,"[{'name': 'TAIWAN SEMICONDUCTOR MANUFACTURING', 'weight_pct': 13.68}, {'name': 'SAMSUNG ELECTRONICS LTD', 'weight_pct': 6.61}, {'name': 'SK HYNIX', 'weight_pct': 5.16}]","[{'name': 'TAIWAN SEMICONDUCTOR MANUFACTURING', 'weight_pct': 13.68}, {'name': 'SAMSUNG ELECTRONICS LTD', 'weight_pct': 6.61}, {'name': 'SK HYNIX', 'weight_pct': 5.16}]",correct
+IE00BKX55T58,Vanguard,fund_name,Vanguard FTSE Developed World UCITS ETF,Vanguard FTSE Developed World UCITS ETF (USD) Distributing,correct
+IE00BKX55T58,Vanguard,isin,IE00BKX55T58,IE00BKX55T58,correct
+IE00BKX55T58,Vanguard,issuer,Vanguard,Vanguard,correct
+IE00BKX55T58,Vanguard,as_of_date,2026-09-30,2026-09-30,correct
+IE00BKX55T58,Vanguard,currency,USD,USD,correct
+IE00BKX55T58,Vanguard,domicile,Ireland,Ireland,correct
+IE00BKX55T58,Vanguard,inception_date,2014-09-30,2014-09-30,correct
+IE00BKX55T58,Vanguard,benchmark,FTSE Developed Index,FTSE Developed Index,correct
+IE00BKX55T58,Vanguard,replication,physical,physical,correct
+IE00BKX55T58,Vanguard,distribution,distributing,distributing,correct
+IE00BKX55T58,Vanguard,ter_pct,0.12,0.12,correct
+IE00BKX55T58,Vanguard,fund_aum_m,11609,4776.0,wrong
+IE00BKX55T58,Vanguard,aum_currency,USD,USD,correct
+IE00BKX55T58,Vanguard,sri,4,4,correct
+IE00BKX55T58,Vanguard,fund_1y_pct,17.23,13.27,wrong
+IE00BKX55T58,Vanguard,fund_3y_pct,22.12,17.23,wrong
+IE00BKX55T58,Vanguard,fund_5y_pct,12.25,22.12,wrong
+IE00BKX55T58,Vanguard,benchmark_1y_pct,17.13,13.2,wrong
+IE00BKX55T58,Vanguard,benchmark_3y_pct,21.99,17.13,wrong
+IE00BKX55T58,Vanguard,benchmark_5y_pct,12.11,21.99,wrong
+IE00BKX55T58,Vanguard,multi_year_annualised,True,True,correct
+IE00BKX55T58,Vanguard,top_holdings,"[{'name': 'NVIDIA Corp.', 'weight_pct': 5.6}, {'name': 'Apple Inc.', 'weight_pct': 5.1}, {'name': 'Microsoft Corp.', 'weight_pct': 4.0}]","[{'name': 'NVIDIA Corp.', 'weight_pct': 5.6}, {'name': 'Apple Inc.', 'weight_pct': 5.1}, {'name': 'Microsoft Corp.', 'weight_pct': 4.0}]",correct
+LU0274209237,Xtrackers,fund_name,Xtrackers MSCI Europe UCITS ETF 1C,Xtrackers MSCI Europe UCITS ETF 1C,correct
+LU0274209237,Xtrackers,isin,LU0274209237,LU0274209237,correct
+LU0274209237,Xtrackers,issuer,Xtrackers,Xtrackers,correct
+LU0274209237,Xtrackers,as_of_date,2026-09-30,2026-09-30,correct
+LU0274209237,Xtrackers,currency,USD,USD,correct
+LU0274209237,Xtrackers,domicile,Luxembourg,Luxembourg,correct
+LU0274209237,Xtrackers,inception_date,2007-01-10,2007-01-10,correct
+LU0274209237,Xtrackers,benchmark,MSCI Total Return Net Europe Index,MSCI Total Return Net Europe Index,correct
+LU0274209237,Xtrackers,replication,physical,physical,correct
+LU0274209237,Xtrackers,distribution,accumulating,accumulating,correct
+LU0274209237,Xtrackers,ter_pct,0.12,0.12,correct
+LU0274209237,Xtrackers,fund_aum_m,9510,9510.0,correct
+LU0274209237,Xtrackers,aum_currency,USD,USD,correct
+LU0274209237,Xtrackers,sri,,,correct
+LU0274209237,Xtrackers,fund_1y_pct,,,correct
+LU0274209237,Xtrackers,fund_3y_pct,,,correct
+LU0274209237,Xtrackers,fund_5y_pct,,,correct
+LU0274209237,Xtrackers,benchmark_1y_pct,,,correct
+LU0274209237,Xtrackers,benchmark_3y_pct,,,correct
+LU0274209237,Xtrackers,benchmark_5y_pct,,,correct
+LU0274209237,Xtrackers,multi_year_annualised,,,correct
+LU0274209237,Xtrackers,top_holdings,"[{'name': 'ASML HOLDING ', 'weight_pct': 4.91}, {'name': 'HSBC HOLDINGS PLC ', 'weight_pct': 2.5}, {'name': 'ROCHE PS PAR AG ', 'weight_pct': 2.17}]","[{'name': 'ASML HOLDING', 'weight_pct': 4.91}, {'name': 'HSBC HOLDINGS PLC', 'weight_pct': 2.5}, {'name': 'ROCHE PS PAR AG', 'weight_pct': 2.17}]",correct
+LU0290355717,Xtrackers,fund_name,Xtrackers II Eurozone Government Bond UCITS ETF 1C,Xtrackers II Eurozone Government Bond UCITS ETF 1C,correct
+LU0290355717,Xtrackers,isin,LU0290355717,LU0290355717,correct
+LU0290355717,Xtrackers,issuer,Xtrackers,Xtrackers,correct
+LU0290355717,Xtrackers,as_of_date,2026-09-30,2026-09-30,correct
+LU0290355717,Xtrackers,currency,EUR,EUR,correct
+LU0290355717,Xtrackers,domicile,Luxembourg,Luxembourg,correct
+LU0290355717,Xtrackers,inception_date,2007-05-22,2007-05-22,correct
+LU0290355717,Xtrackers,benchmark,IBOXX® € SOVEREIGNS EUROZONE INDEX,IBOXX® € SOVEREIGNS EUROZONE INDEX,correct
+LU0290355717,Xtrackers,replication,physical,physical,correct
+LU0290355717,Xtrackers,distribution,accumulating,accumulating,correct
+LU0290355717,Xtrackers,ter_pct,0.07,0.07,correct
+LU0290355717,Xtrackers,fund_aum_m,2970,2970.0,correct
+LU0290355717,Xtrackers,aum_currency,EUR,EUR,correct
+LU0290355717,Xtrackers,sri,,,correct
+LU0290355717,Xtrackers,fund_1y_pct,,,correct
+LU0290355717,Xtrackers,fund_3y_pct,,,correct
+LU0290355717,Xtrackers,fund_5y_pct,,,correct
+LU0290355717,Xtrackers,benchmark_1y_pct,,,correct
+LU0290355717,Xtrackers,benchmark_3y_pct,,,correct
+LU0290355717,Xtrackers,benchmark_5y_pct,,,correct
+LU0290355717,Xtrackers,multi_year_annualised,,,correct
+LU0290355717,Xtrackers,top_holdings,"[{'name': 'DEUTSCHE GLOBAL LIQUIDITY SERI', 'weight_pct': 1.24}, {'name': 'FRANCE (REPUBLIC OF)', 'weight_pct': 0.87}, {'name': 'FRANCE (REPUBLIC OF)', 'weight_pct': 0.82}]","[{'name': 'FRANCE (REPUBLIC OF) FR0011883966', 'weight_pct': 1.24}, {'name': 'FRANCE (REPUBLIC OF) FR0012993103', 'weight_pct': 0.87}, {'name': 'FRANCE (REPUBLIC OF) FR0013286192', 'weight_pct': 0.82}]",wrong
+LU0490618542,Xtrackers,fund_name,Xtrackers S&P 500 Swap UCITS ETF 1C,Xtrackers S&P 500 Swap UCITS ETF 1C,correct
+LU0490618542,Xtrackers,isin,LU0490618542,LU0490618542,correct
+LU0490618542,Xtrackers,issuer,Xtrackers,Xtrackers,correct
+LU0490618542,Xtrackers,as_of_date,2026-09-30,2026-09-30,correct
+LU0490618542,Xtrackers,currency,USD,USD,correct
+LU0490618542,Xtrackers,domicile,Luxembourg,Luxembourg,correct
+LU0490618542,Xtrackers,inception_date,2010-03-26,2010-03-26,correct
+LU0490618542,Xtrackers,benchmark,S&P 500 INDEX,S&P 500 INDEX,correct
+LU0490618542,Xtrackers,replication,synthetic,synthetic,correct
+LU0490618542,Xtrackers,distribution,accumulating,accumulating,correct
+LU0490618542,Xtrackers,ter_pct,0.15,0.15,correct
+LU0490618542,Xtrackers,fund_aum_m,9050,9050.0,correct
+LU0490618542,Xtrackers,aum_currency,USD,USD,correct
+LU0490618542,Xtrackers,sri,,,correct
+LU0490618542,Xtrackers,fund_1y_pct,,,correct
+LU0490618542,Xtrackers,fund_3y_pct,,,correct
+LU0490618542,Xtrackers,fund_5y_pct,,,correct
+LU0490618542,Xtrackers,benchmark_1y_pct,,,correct
+LU0490618542,Xtrackers,benchmark_3y_pct,,,correct
+LU0490618542,Xtrackers,benchmark_5y_pct,,,correct
+LU0490618542,Xtrackers,multi_year_annualised,,,correct
+LU0490618542,Xtrackers,top_holdings,"[{'name': 'NVIDIA', 'weight_pct': 7.38}, {'name': 'APPLE', 'weight_pct': 6.59}, {'name': 'MICROSOFT', 'weight_pct': 4.38}]","[{'name': 'NVIDIA', 'weight_pct': 7.38}, {'name': 'APPLE', 'weight_pct': 6.59}, {'name': 'MICROSOFT', 'weight_pct': 4.38}]",correct
+LU0908500753,Amundi,fund_name,Amundi Core STOXX Europe 600 UCITS ETF Acc,Amundi Core STOXX Europe 600 UCITS ETF Acc,correct
+LU0908500753,Amundi,isin,LU0908500753,LU0908500753,correct
+LU0908500753,Amundi,issuer,Amundi,Amundi,correct
+LU0908500753,Amundi,as_of_date,2026-09-30,2026-09-30,correct
+LU0908500753,Amundi,currency,EUR,EUR,correct
+LU0908500753,Amundi,domicile,Luxembourg,Luxembourg,correct
+LU0908500753,Amundi,inception_date,2013-04-03,2013-04-03,correct
+LU0908500753,Amundi,benchmark,STOXX Europe 600 Index,STOXX EUROPE 600,correct
+LU0908500753,Amundi,replication,physical,physical,correct
+LU0908500753,Amundi,distribution,accumulating,accumulating,correct
+LU0908500753,Amundi,ter_pct,0.07,0.07,correct
+LU0908500753,Amundi,fund_aum_m,21296.36,21296.36,correct
+LU0908500753,Amundi,aum_currency,EUR,EUR,correct
+LU0908500753,Amundi,sri,4,4,correct
+LU0908500753,Amundi,fund_1y_pct,16.9,16.9,correct
+LU0908500753,Amundi,fund_3y_pct,53.5,53.5,correct
+LU0908500753,Amundi,fund_5y_pct,60.89,60.89,correct
+LU0908500753,Amundi,benchmark_1y_pct,16.56,16.56,correct
+LU0908500753,Amundi,benchmark_3y_pct,52.3,52.3,correct
+LU0908500753,Amundi,benchmark_5y_pct,58.86,58.86,correct
+LU0908500753,Amundi,multi_year_annualised,False,False,correct
+LU0908500753,Amundi,top_holdings,"[{'name': 'ASML HOLDING NV', 'weight_pct': 4.69}, {'name': 'HSBC HOLDING PLC GBP', 'weight_pct': 2.28}, {'name': 'ROCHE HLDG AG-GENUSS CHF', 'weight_pct': 1.96}]","[{'name': 'ASML HOLDING NV', 'weight_pct': 4.69}, {'name': 'HSBC HOLDING PLC GBP', 'weight_pct': 2.28}, {'name': 'ROCHE HLDG AG-GENUSS CHF', 'weight_pct': 1.96}]",correct
+LU1135865084,Amundi,fund_name,Amundi Core S&P 500 Swap UCITS ETF Acc,Amundi Core S&P 500 Swap UCITS ETF Acc,correct
+LU1135865084,Amundi,isin,LU1135865084,LU1135865084,correct
+LU1135865084,Amundi,issuer,Amundi,Amundi,correct
+LU1135865084,Amundi,as_of_date,2026-09-30,2026-09-30,correct
+LU1135865084,Amundi,currency,USD,USD,correct
+LU1135865084,Amundi,domicile,Luxembourg,Luxembourg,correct
+LU1135865084,Amundi,inception_date,2014-12-09,2014-12-09,correct
+LU1135865084,Amundi,benchmark,S&P 500® Net Total Return,S&P 500 Net Total Return Index,correct
+LU1135865084,Amundi,replication,synthetic,synthetic,correct
+LU1135865084,Amundi,distribution,accumulating,accumulating,correct
+LU1135865084,Amundi,ter_pct,0.05,0.05,correct
+LU1135865084,Amundi,fund_aum_m,33571.34,33571.34,correct
+LU1135865084,Amundi,aum_currency,USD,USD,correct
+LU1135865084,Amundi,sri,4,4,correct
+LU1135865084,Amundi,fund_1y_pct,15.61,15.61,correct
+LU1135865084,Amundi,fund_3y_pct,84.97,84.97,correct
+LU1135865084,Amundi,fund_5y_pct,89.7,89.7,correct
+LU1135865084,Amundi,benchmark_1y_pct,15.34,15.34,correct
+LU1135865084,Amundi,benchmark_3y_pct,83.41,83.41,correct
+LU1135865084,Amundi,benchmark_5y_pct,86.74,86.74,correct
+LU1135865084,Amundi,multi_year_annualised,False,False,correct
+LU1135865084,Amundi,top_holdings,"[{'name': 'NVIDIA CORP', 'weight_pct': 8.32}, {'name': 'APPLE INC', 'weight_pct': 7.27}, {'name': 'MICROSOFT CORP', 'weight_pct': 5.72}]","[{'name': 'NVIDIA CORP', 'weight_pct': 8.32}, {'name': 'APPLE INC', 'weight_pct': 7.27}, {'name': 'MICROSOFT CORP', 'weight_pct': 5.72}]",correct
+LU1437018598,Amundi,fund_name,Amundi Core Euro Government Bond UCITS ETF Acc,Amundi Core Euro Government Bond UCITS ETF Acc,correct
+LU1437018598,Amundi,isin,LU1437018598,LU1437018598,correct
+LU1437018598,Amundi,issuer,Amundi,Amundi,correct
+LU1437018598,Amundi,as_of_date,2026-09-30,2026-09-30,correct
+LU1437018598,Amundi,currency,EUR,EUR,correct
+LU1437018598,Amundi,domicile,Luxembourg,Luxembourg,correct
+LU1437018598,Amundi,inception_date,2016-11-11,2016-06-29,wrong
+LU1437018598,Amundi,benchmark,100% BLOOMBERG BARCLAYS EURO TREASURY 50BN BOND INDEX,Bloomberg Euro Treasury 50bn Bond Index,wrong
+LU1437018598,Amundi,replication,physical,physical,correct
+LU1437018598,Amundi,distribution,accumulating,accumulating,correct
+LU1437018598,Amundi,ter_pct,0.09,0.09,correct
+LU1437018598,Amundi,fund_aum_m,1742.46,1742.46,correct
+LU1437018598,Amundi,aum_currency,EUR,EUR,correct
+LU1437018598,Amundi,sri,3,3,correct
+LU1437018598,Amundi,fund_1y_pct,-3.07,-3.07,correct
+LU1437018598,Amundi,fund_3y_pct,5.86,5.86,correct
+LU1437018598,Amundi,fund_5y_pct,-13.82,-13.82,correct
+LU1437018598,Amundi,benchmark_1y_pct,-3.02,-3.02,correct
+LU1437018598,Amundi,benchmark_3y_pct,6.07,6.07,correct
+LU1437018598,Amundi,benchmark_5y_pct,-13.43,-13.43,correct
+LU1437018598,Amundi,multi_year_annualised,False,False,correct
+LU1437018598,Amundi,top_holdings,[],"[{'name': 'France', 'weight_pct': 24.42}, {'name': 'Italy', 'weight_pct': 22.18}, {'name': 'Germany', 'weight_pct': 20.04}]",hallucinated
+LU1681043599,Amundi,fund_name,Amundi MSCI World Swap UCITS ETF EUR Acc,Amundi MSCI World Swap UCITS ETF EUR Acc,correct
+LU1681043599,Amundi,isin,LU1681043599,LU1681043599,correct
+LU1681043599,Amundi,issuer,Amundi,Amundi,correct
+LU1681043599,Amundi,as_of_date,2026-09-30,2026-09-30,correct
+LU1681043599,Amundi,currency,EUR,EUR,correct
+LU1681043599,Amundi,domicile,Luxembourg,Luxembourg,correct
+LU1681043599,Amundi,inception_date,2009-06-16,2018-04-18,wrong
+LU1681043599,Amundi,benchmark,MSCI WORLD Index,MSCI WORLD,correct
+LU1681043599,Amundi,replication,synthetic,synthetic,correct
+LU1681043599,Amundi,distribution,accumulating,accumulating,correct
+LU1681043599,Amundi,ter_pct,0.38,0.38,correct
+LU1681043599,Amundi,fund_aum_m,7199.85,7199.85,correct
+LU1681043599,Amundi,aum_currency,EUR,EUR,correct
+LU1681043599,Amundi,sri,4,4,correct
+LU1681043599,Amundi,fund_1y_pct,18.79,18.79,correct
+LU1681043599,Amundi,fund_3y_pct,65.42,65.42,correct
+LU1681043599,Amundi,fund_5y_pct,77.07,77.07,correct
+LU1681043599,Amundi,benchmark_1y_pct,19.21,19.21,correct
+LU1681043599,Amundi,benchmark_3y_pct,66.78,66.78,correct
+LU1681043599,Amundi,benchmark_5y_pct,78.93,78.93,correct
+LU1681043599,Amundi,multi_year_annualised,False,False,correct
+LU1681043599,Amundi,top_holdings,"[{'name': 'NVIDIA CORP', 'weight_pct': 5.77}, {'name': 'APPLE INC', 'weight_pct': 5.34}, {'name': 'MICROSOFT CORP', 'weight_pct': 3.97}]","[{'name': 'NVIDIA CORP', 'weight_pct': 5.77}, {'name': 'APPLE INC', 'weight_pct': 5.34}, {'name': 'MICROSOFT CORP', 'weight_pct': 3.97}]",correct
+LU2194286006,UBS,fund_name,UBS J.P. Morgan EMU Gov ESG Liquid Bond UCITS ETF EUR acc,UBS J.P. Morgan EMU Gov ESG Liquid Bond Index (benchmark) UCITS ETF EUR acc,wrong
+LU2194286006,UBS,isin,LU2194286006,LU2194286006,correct
+LU2194286006,UBS,issuer,UBS,UBS,correct
+LU2194286006,UBS,as_of_date,2026-09-30,2026-09-30,correct
+LU2194286006,UBS,currency,EUR,EUR,correct
+LU2194286006,UBS,domicile,Luxembourg,Luxembourg,correct
+LU2194286006,UBS,inception_date,2020-09-01,2020-09-01,correct
+LU2194286006,UBS,benchmark,J.P. Morgan EMU Government ESG Liquid Bond Index,J.P. Morgan EMU Government ESG Liquid Bond Index (Total Return),correct
+LU2194286006,UBS,replication,physical,physical,correct
+LU2194286006,UBS,distribution,accumulating,accumulating,correct
+LU2194286006,UBS,ter_pct,0.17,0.17,correct
+LU2194286006,UBS,fund_aum_m,13.59,13590.0,wrong
+LU2194286006,UBS,aum_currency,EUR,EUR,correct
+LU2194286006,UBS,sri,,,correct
+LU2194286006,UBS,fund_1y_pct,,-18.84,hallucinated
+LU2194286006,UBS,fund_3y_pct,,-3.41,hallucinated
+LU2194286006,UBS,fund_5y_pct,-3.41,-1.75,wrong
+LU2194286006,UBS,benchmark_1y_pct,,-18.74,hallucinated
+LU2194286006,UBS,benchmark_3y_pct,,-3.25,hallucinated
+LU2194286006,UBS,benchmark_5y_pct,-3.25,-1.74,wrong
+LU2194286006,UBS,multi_year_annualised,True,False,wrong
+LU2194286006,UBS,top_holdings,"[{'name': 'Bundesrepublik Deutschland Bundesanleihe', 'weight_pct': 30.6}, {'name': 'French Republic Government Bond OAT', 'weight_pct': 16.6}, {'name': 'Spain Government Bond', 'weight_pct': 9.6}]","[{'name': 'Bundesanleihe', 'weight_pct': 30.6}, {'name': 'French Republic Government Bond OAT', 'weight_pct': 16.6}, {'name': 'Spain Government Bond', 'weight_pct': 9.6}]",wrong

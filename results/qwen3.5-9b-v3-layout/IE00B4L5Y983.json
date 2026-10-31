@@ -1,0 +1,37 @@
+{
+  "fund_name": "iShares Core MSCI World UCITS ETF U.S. Dollar (Accumulating)",
+  "isin": "IE00B4L5Y983",
+  "issuer": "iShares",
+  "as_of_date": "2026-09-30",
+  "currency": "USD",
+  "domicile": "Ireland",
+  "inception_date": "2009-09-25",
+  "benchmark": "MSCI World Index (Net)",
+  "replication": "physical",
+  "distribution": "accumulating",
+  "ter_pct": 0.2,
+  "fund_aum_m": 147192.36,
+  "aum_currency": "USD",
+  "sri": 4,
+  "fund_1y_pct": 15.25,
+  "fund_3y_pct": 21.43,
+  "fund_5y_pct": 11.95,
+  "benchmark_1y_pct": 15.24,
+  "benchmark_3y_pct": 21.4,
+  "benchmark_5y_pct": 11.89,
+  "multi_year_annualised": true,
+  "top_holdings": [
+    {
+      "name": "NVIDIA",
+      "weight_pct": 5.79
+    },
+    {
+      "name": "APPLE",
+      "weight_pct": 5.39
+    },
+    {
+      "name": "MICROSOFT",
+      "weight_pct": 3.99
+    }
+  ]
+}
