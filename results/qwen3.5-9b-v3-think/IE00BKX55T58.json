@@ -1,0 +1,37 @@
+{
+  "fund_name": "Vanguard FTSE Developed World UCITS ETF (USD) Distributing",
+  "isin": "IE00BKX55T58",
+  "issuer": "Vanguard",
+  "as_of_date": "2026-09-30",
+  "currency": "USD",
+  "domicile": "Ireland",
+  "inception_date": "2014-09-30",
+  "benchmark": "FTSE Developed Index",
+  "replication": "physical",
+  "distribution": "distributing",
+  "ter_pct": 0.12,
+  "fund_aum_m": 11609.0,
+  "aum_currency": "USD",
+  "sri": 4,
+  "fund_1y_pct": 13.27,
+  "fund_3y_pct": 17.23,
+  "fund_5y_pct": 22.12,
+  "benchmark_1y_pct": 13.2,
+  "benchmark_3y_pct": 17.13,
+  "benchmark_5y_pct": 21.99,
+  "multi_year_annualised": true,
+  "top_holdings": [
+    {
+      "name": "NVIDIA Corp.",
+      "weight_pct": 5.6
+    },
+    {
+      "name": "Apple Inc.",
+      "weight_pct": 5.1
+    },
+    {
+      "name": "Microsoft Corp.",
+      "weight_pct": 4.0
+    }
+  ]
+}

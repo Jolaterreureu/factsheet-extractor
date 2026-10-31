@@ -1,3 +1,4 @@
+import io
 import json
 import os
 import textwrap
@@ -8,6 +9,8 @@ from ollama import chat
 from factsheet.schema import Factsheet
 
 MODEL = os.environ.get("FACTSHEET_MODEL", "qwen3.5:9b")
+IMAGE_PAGES = 3
+IMAGE_DPI = 120
 
 RULES = """You extract data from ETF factsheets into JSON.
 
@@ -66,10 +69,10 @@ PROMPTS = {
 }
 
 
-def pdf_text(path, layout: bool = False) -> str:
+def pdf_text(path, layout: bool = False, max_pages: int | None = None) -> str:
     pages = []
     with pdfplumber.open(path) as pdf:
-        for page in pdf.pages:
+        for page in pdf.pages[:max_pages]:
             text = page.extract_text(layout=layout) or ""
             if layout:
                 lines = [line.rstrip() for line in text.splitlines() if line.strip()]
@@ -78,15 +81,24 @@ def pdf_text(path, layout: bool = False) -> str:
     return "\n\n".join(pages)
 
 
-def extract(text: str, model: str = MODEL, prompt: str = "v3", think: bool = False) -> str:
-    response = chat(
+def page_images(path, max_pages: int = IMAGE_PAGES, dpi: int = IMAGE_DPI) -> list[bytes]:
+    images = []
+    with pdfplumber.open(path) as pdf:
+        for page in pdf.pages[:max_pages]:
+            buffer = io.BytesIO()
+            page.to_image(resolution=dpi).original.save(buffer, format="PNG")
+            images.append(buffer.getvalue())
+    return images
+
+
+def extract(text: str, model: str = MODEL, prompt: str = "v3", think: bool = False, images=None):
+    user = {"role": "user", "content": text or "The factsheet pages are attached as images."}
+    if images:
+        user["images"] = images
+    return chat(
         model=model,
-        messages=[
-            {"role": "system", "content": PROMPTS[prompt]},
-            {"role": "user", "content": text},
-        ],
+        messages=[{"role": "system", "content": PROMPTS[prompt]}, user],
         format=Factsheet.model_json_schema(),
         options={"temperature": 0, "num_ctx": 16384},
         think=think,
     )
-    return response.message.content

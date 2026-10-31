@@ -1,0 +1,37 @@
+{
+  "fund_name": "Vanguard FTSE Developed Europe UCITS ETF (EUR) Accumulating",
+  "isin": "IE00BK5BQX27",
+  "issuer": "Vanguard",
+  "as_of_date": "2026-09-30",
+  "currency": "EUR",
+  "domicile": "Ireland",
+  "inception_date": "2019-07-23",
+  "benchmark": "FTSE Developed Europe Index",
+  "replication": "physical",
+  "distribution": "accumulating",
+  "ter_pct": 0.1,
+  "fund_aum_m": 7761.0,
+  "aum_currency": "EUR",
+  "sri": 4,
+  "fund_1y_pct": 9.8,
+  "fund_3y_pct": 16.93,
+  "fund_5y_pct": 15.39,
+  "benchmark_1y_pct": 9.53,
+  "benchmark_3y_pct": 16.6,
+  "benchmark_5y_pct": 15.07,
+  "multi_year_annualised": true,
+  "top_holdings": [
+    {
+      "name": "ASML Holding NV",
+      "weight_pct": 4.9
+    },
+    {
+      "name": "HSBC Holdings plc",
+      "weight_pct": 2.4
+    },
+    {
+      "name": "Roche Holding AG",
+      "weight_pct": 2.2
+    }
+  ]
+}
