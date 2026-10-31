@@ -12,7 +12,8 @@ parser = argparse.ArgumentParser()
 parser.add_argument("--model", default=MODEL)
 parser.add_argument("--all", action="store_true", help="all funds in the manifest, not only the labelled ones")
 parser.add_argument("--only", help="run a single ISIN")
-parser.add_argument("--prompt", default="v2", choices=PROMPTS)
+parser.add_argument("--prompt", default="v3", choices=PROMPTS)
+parser.add_argument("--layout", action="store_true", help="keep the page layout when extracting text")
 parser.add_argument("--think", action="store_true", help="let the model reason before answering")
 args = parser.parse_args()
 
@@ -23,13 +24,13 @@ elif args.all:
 else:
     isins = sorted(p.stem for p in Path("ground_truth").glob("*.json"))
 
-run_name = f"{args.model.replace(':', '-')}-{args.prompt}" + ("-think" if args.think else "")
+run_name = f"{args.model.replace(':', '-')}-{args.prompt}" + ("-layout" if args.layout else "") + ("-think" if args.think else "")
 out_dir = Path("results") / run_name
 out_dir.mkdir(parents=True, exist_ok=True)
 
 log = []
 for i, isin in enumerate(isins, 1):
-    text = pdf_text(f"data/pdfs/{isin}.pdf")
+    text = pdf_text(f"data/pdfs/{isin}.pdf", layout=args.layout)
     start = time.time()
     raw = extract(text, args.model, prompt=args.prompt, think=args.think)
     seconds = round(time.time() - start, 1)
