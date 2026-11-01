@@ -1,0 +1,43 @@
+isin,field,reason
+IE00B3VVMM84,fund_aum_m,looks like share class assets
+IE00B3Z3FS74,fund_5y_pct,same value as 3y
+IE00B3Z3FS74,benchmark_5y_pct,same value as 3y
+IE00B4L5Y983,fund_aum_m,looks like share class assets
+IE00B7K93397,fund_aum_m,looks like share class assets
+LU0908500753,domicile,ISIN prefix says Luxembourg
+LU1135865084,domicile,ISIN prefix says Luxembourg
+LU1681043599,domicile,ISIN prefix says Luxembourg
+IE00B3Z3FS74,fund_1y_pct,-31.0 pts from peer median
+IE00BKM4GZ66,fund_1y_pct,+16.3 pts from peer median
+IE00B4L5Y983,fund_1y_pct,+8.2 pts from peer median
+IE00BD4TXV59,fund_1y_pct,-25.3 pts from peer median
+IE00BKX55T58,fund_1y_pct,-8.2 pts from peer median
+LU1681043599,fund_1y_pct,+11.7 pts from peer median
+LU2194286006,fund_1y_pct,-15.8 pts from peer median
+IE00B7K93397,fund_1y_pct,-32.4 pts from peer median
+IE00BKM4GZ66,fund_3y_pct,+10.3 pts from peer median
+IE00BD4TXV59,fund_3y_pct,-5.7 pts from peer median
+IE00BFMXXD54,fund_3y_pct,-6.6 pts from peer median
+IE00B3VVMM84,fund_5y_pct,+9.4 pts from peer median
+IE00BKX55T58,fund_5y_pct,+8.5 pts from peer median
+IE00B7K93397,fund_5y_pct,-15.6 pts from peer median
+IE00B7K93397,multi_year_annualised,converted value is off peers
+LU1135865084,fund_5y_pct,+17.0 pts from peer median
+LU1135865084,multi_year_annualised,converted value is off peers
+IE00B3Z3FS74,benchmark_1y_pct,-30.7 pts from peer median
+IE00BKM4GZ66,benchmark_1y_pct,+16.7 pts from peer median
+IE00B4L5Y983,benchmark_1y_pct,+8.2 pts from peer median
+IE00BD4TXV59,benchmark_1y_pct,-25.2 pts from peer median
+IE00BKX55T58,benchmark_1y_pct,-8.2 pts from peer median
+LU1681043599,benchmark_1y_pct,+12.1 pts from peer median
+LU2194286006,benchmark_1y_pct,-15.7 pts from peer median
+IE00B7K93397,benchmark_1y_pct,-32.4 pts from peer median
+IE00BKM4GZ66,benchmark_3y_pct,+10.3 pts from peer median
+IE00BD4TXV59,benchmark_3y_pct,-5.8 pts from peer median
+IE00BFMXXD54,benchmark_3y_pct,-6.5 pts from peer median
+IE00B3VVMM84,benchmark_5y_pct,+9.7 pts from peer median
+IE00BKX55T58,benchmark_5y_pct,+8.2 pts from peer median
+IE00B7K93397,benchmark_5y_pct,-15.5 pts from peer median
+IE00B7K93397,multi_year_annualised,converted value is off peers
+LU1135865084,benchmark_5y_pct,+15.9 pts from peer median
+LU1135865084,multi_year_annualised,converted value is off peers

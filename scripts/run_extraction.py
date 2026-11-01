@@ -5,7 +5,8 @@ from pathlib import Path
 
 from pydantic import ValidationError
 
-from factsheet.extract import IMAGE_PAGES, MODEL, PROMPTS, extract, page_images, pdf_text
+from factsheet.extract import MODEL, PROMPTS, extract
+from factsheet.pdf import IMAGE_PAGES, page_images, pdf_text
 from factsheet.schema import Factsheet
 
 parser = argparse.ArgumentParser()
