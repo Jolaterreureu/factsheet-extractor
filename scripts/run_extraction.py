@@ -29,7 +29,7 @@ elif args.all:
 else:
     isins = sorted(p.stem for p in Path("ground_truth").glob("*.json"))
 
-run_name = f"{args.model.replace(':', '-')}-{args.prompt}" + ("" if args.input == "text" else f"-{args.input}") + ("-layout" if args.layout else "") + ("-think" if args.think else "") + ("-holdout" if args.holdout else "")
+run_name = f"{args.model.replace(':', '-')}-{args.prompt}" + ("" if args.input == "text" else f"-{args.input}") + ("-layout" if args.layout else "") + ("-think" if args.think else "") + ("-holdout" if args.holdout else "") + ("-all" if args.all else "")
 out_dir = Path("results") / run_name
 out_dir.mkdir(parents=True, exist_ok=True)
 
