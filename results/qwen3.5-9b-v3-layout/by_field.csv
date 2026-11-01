@@ -13,7 +13,7 @@ fund_3y_pct,12,4,0,4,0.6
 fund_5y_pct,13,0,0,7,0.65
 fund_aum_m,15,0,0,5,0.75
 fund_name,19,0,0,1,0.95
-inception_date,17,0,0,3,0.85
+inception_date,18,0,0,2,0.9
 isin,20,0,0,0,1.0
 issuer,20,0,0,0,1.0
 multi_year_annualised,17,0,0,3,0.85

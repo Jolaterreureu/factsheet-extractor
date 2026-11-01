@@ -5,7 +5,7 @@
   "as_of_date": "2026-09-30",
   "currency": "EUR",
   "domicile": "Luxembourg",
-  "inception_date": "2009-06-16",
+  "inception_date": "2018-04-18",
   "benchmark": "MSCI WORLD Index",
   "replication": "synthetic",
   "distribution": "accumulating",
@@ -21,8 +21,17 @@
   "benchmark_5y_pct": 78.93,
   "multi_year_annualised": false,
   "top_holdings": [
-    {"name": "NVIDIA CORP", "weight_pct": 5.77},
-    {"name": "APPLE INC", "weight_pct": 5.34},
-    {"name": "MICROSOFT CORP", "weight_pct": 3.97}
+    {
+      "name": "NVIDIA CORP",
+      "weight_pct": 5.77
+    },
+    {
+      "name": "APPLE INC",
+      "weight_pct": 5.34
+    },
+    {
+      "name": "MICROSOFT CORP",
+      "weight_pct": 3.97
+    }
   ]
 }

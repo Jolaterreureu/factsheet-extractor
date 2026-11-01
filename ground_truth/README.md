@@ -30,3 +30,4 @@ Labelled by reading the PDF only, before looking at any model output.
 - iShares shows a 1-7 risk scale as a highlighted box (e.g. 6 for equity funds). This is a different scale than the PRIIPs SRI printed by Vanguard and Amundi (4 for the same kind of fund), so `sri` is not comparable across issuers.
 - iShares bond factsheets list "Top issuers" (countries) instead of individual bonds. Labelled these as top holdings.
 - Xtrackers prints "Total Shares Outstanding" in millions right below "Total Fund Assets" in billions. Only the second one is `fund_aum_m`.
+- Amundi prints both "Share-class inception date" and "Date of the first NAV". The share class was often re-created later (e.g. after the Lyxor merger) while the track record starts at the first NAV. `inception_date` uses the share-class inception date, as defined in the schema.

@@ -5,7 +5,7 @@
   "as_of_date": "2026-09-30",
   "currency": "EUR",
   "domicile": "Luxembourg",
-  "inception_date": "2016-11-11",
+  "inception_date": "2016-06-29",
   "benchmark": "100% BLOOMBERG BARCLAYS EURO TREASURY 50BN BOND INDEX",
   "replication": "physical",
   "distribution": "accumulating",

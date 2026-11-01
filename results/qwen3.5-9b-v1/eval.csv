@@ -335,7 +335,7 @@ LU0908500753,Amundi,issuer,Amundi,"Amundi Asset Management, SAS",wrong
 LU0908500753,Amundi,as_of_date,2026-09-30,2026-09-30,correct
 LU0908500753,Amundi,currency,EUR,EUR,correct
 LU0908500753,Amundi,domicile,Luxembourg,,missed
-LU0908500753,Amundi,inception_date,2013-04-03,,missed
+LU0908500753,Amundi,inception_date,2024-02-08,,missed
 LU0908500753,Amundi,benchmark,STOXX Europe 600 Index,,missed
 LU0908500753,Amundi,replication,physical,,missed
 LU0908500753,Amundi,distribution,accumulating,,missed
@@ -379,7 +379,7 @@ LU1437018598,Amundi,issuer,Amundi,Amundi Luxembourg SA,wrong
 LU1437018598,Amundi,as_of_date,2026-09-30,2026-09-30,correct
 LU1437018598,Amundi,currency,EUR,EUR,correct
 LU1437018598,Amundi,domicile,Luxembourg,,missed
-LU1437018598,Amundi,inception_date,2016-11-11,,missed
+LU1437018598,Amundi,inception_date,2016-06-29,,missed
 LU1437018598,Amundi,benchmark,100% BLOOMBERG BARCLAYS EURO TREASURY 50BN BOND INDEX,,missed
 LU1437018598,Amundi,replication,physical,,missed
 LU1437018598,Amundi,distribution,accumulating,,missed
@@ -401,7 +401,7 @@ LU1681043599,Amundi,issuer,Amundi,"Amundi Asset Management, SAS",wrong
 LU1681043599,Amundi,as_of_date,2026-09-30,2026-09-30,correct
 LU1681043599,Amundi,currency,EUR,EUR,correct
 LU1681043599,Amundi,domicile,Luxembourg,,missed
-LU1681043599,Amundi,inception_date,2009-06-16,,missed
+LU1681043599,Amundi,inception_date,2018-04-18,,missed
 LU1681043599,Amundi,benchmark,MSCI WORLD Index,,missed
 LU1681043599,Amundi,replication,synthetic,,missed
 LU1681043599,Amundi,distribution,accumulating,,missed

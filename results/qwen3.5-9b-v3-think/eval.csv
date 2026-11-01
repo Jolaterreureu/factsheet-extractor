@@ -335,7 +335,7 @@ LU0908500753,Amundi,issuer,Amundi,Amundi,correct
 LU0908500753,Amundi,as_of_date,2026-09-30,2026-09-30,correct
 LU0908500753,Amundi,currency,EUR,EUR,correct
 LU0908500753,Amundi,domicile,Luxembourg,Luxembourg,correct
-LU0908500753,Amundi,inception_date,2013-04-03,2024-02-08,wrong
+LU0908500753,Amundi,inception_date,2024-02-08,2024-02-08,correct
 LU0908500753,Amundi,benchmark,STOXX Europe 600 Index,STOXX EUROPE 600,correct
 LU0908500753,Amundi,replication,physical,physical,correct
 LU0908500753,Amundi,distribution,accumulating,accumulating,correct
@@ -379,7 +379,7 @@ LU1437018598,Amundi,issuer,Amundi,Amundi,correct
 LU1437018598,Amundi,as_of_date,2026-09-30,2026-09-30,correct
 LU1437018598,Amundi,currency,EUR,EUR,correct
 LU1437018598,Amundi,domicile,Luxembourg,Luxembourg,correct
-LU1437018598,Amundi,inception_date,2016-11-11,2016-06-29,wrong
+LU1437018598,Amundi,inception_date,2016-06-29,2016-06-29,correct
 LU1437018598,Amundi,benchmark,100% BLOOMBERG BARCLAYS EURO TREASURY 50BN BOND INDEX,Bloomberg Barclays Euro Treasury 50bn Bond Index,wrong
 LU1437018598,Amundi,replication,physical,physical,correct
 LU1437018598,Amundi,distribution,accumulating,accumulating,correct
@@ -401,7 +401,7 @@ LU1681043599,Amundi,issuer,Amundi,Amundi,correct
 LU1681043599,Amundi,as_of_date,2026-09-30,2026-09-30,correct
 LU1681043599,Amundi,currency,EUR,EUR,correct
 LU1681043599,Amundi,domicile,Luxembourg,Luxembourg,correct
-LU1681043599,Amundi,inception_date,2009-06-16,2018-04-18,wrong
+LU1681043599,Amundi,inception_date,2018-04-18,2018-04-18,correct
 LU1681043599,Amundi,benchmark,MSCI WORLD Index,MSCI WORLD,correct
 LU1681043599,Amundi,replication,synthetic,synthetic,correct
 LU1681043599,Amundi,distribution,accumulating,accumulating,correct
