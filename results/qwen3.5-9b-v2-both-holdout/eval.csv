@@ -1,0 +1,111 @@
+isin,issuer,field,truth,pred,outcome
+IE00B0M62Q58,iShares,fund_name,iShares MSCI World UCITS ETF,iShares MSCI World UCITS ETF U.S. Dollar (Distributing),correct
+IE00B0M62Q58,iShares,isin,IE00B0M62Q58,IE00B0M62Q58,correct
+IE00B0M62Q58,iShares,issuer,iShares,iShares,correct
+IE00B0M62Q58,iShares,as_of_date,2026-09-30,2026-09-30,correct
+IE00B0M62Q58,iShares,currency,USD,USD,correct
+IE00B0M62Q58,iShares,domicile,Ireland,Ireland,correct
+IE00B0M62Q58,iShares,inception_date,2005-10-28,2005-10-28,correct
+IE00B0M62Q58,iShares,benchmark,MSCI World Index (Net),MSCI World Index (Net),correct
+IE00B0M62Q58,iShares,replication,physical,physical,correct
+IE00B0M62Q58,iShares,distribution,distributing,distributing,correct
+IE00B0M62Q58,iShares,ter_pct,0.5,0.5,correct
+IE00B0M62Q58,iShares,fund_aum_m,9412.39,9412.39,correct
+IE00B0M62Q58,iShares,aum_currency,USD,USD,correct
+IE00B0M62Q58,iShares,sri,6,6,correct
+IE00B0M62Q58,iShares,fund_1y_pct,14.85,14.85,correct
+IE00B0M62Q58,iShares,fund_3y_pct,21.07,21.07,correct
+IE00B0M62Q58,iShares,fund_5y_pct,11.61,11.61,correct
+IE00B0M62Q58,iShares,benchmark_1y_pct,15.24,15.24,correct
+IE00B0M62Q58,iShares,benchmark_3y_pct,21.4,21.4,correct
+IE00B0M62Q58,iShares,benchmark_5y_pct,11.89,11.89,correct
+IE00B0M62Q58,iShares,multi_year_annualised,True,True,correct
+IE00B0M62Q58,iShares,top_holdings,"[{'name': 'NVIDIA', 'weight_pct': 5.79}, {'name': 'APPLE', 'weight_pct': 5.39}, {'name': 'MICROSOFT', 'weight_pct': 3.99}]","[{'name': 'NVIDIA', 'weight_pct': 5.79}, {'name': 'APPLE', 'weight_pct': 5.39}, {'name': 'MICROSOFT', 'weight_pct': 3.99}]",correct
+IE00BTJRMP35,Xtrackers,fund_name,Xtrackers MSCI Emerging Markets UCITS ETF 1C,Xtrackers MSCI Emerging Markets UCITS ETF 1C,correct
+IE00BTJRMP35,Xtrackers,isin,IE00BTJRMP35,IE00BTJRMP35,correct
+IE00BTJRMP35,Xtrackers,issuer,Xtrackers,Xtrackers,correct
+IE00BTJRMP35,Xtrackers,as_of_date,2026-09-30,2026-09-30,correct
+IE00BTJRMP35,Xtrackers,currency,USD,USD,correct
+IE00BTJRMP35,Xtrackers,domicile,Ireland,Ireland,correct
+IE00BTJRMP35,Xtrackers,inception_date,2017-06-21,2017-06-21,correct
+IE00BTJRMP35,Xtrackers,benchmark,MSCI Total Return Net Emerging Markets Index,MSCI Total Return Net Emerging Markets Index,correct
+IE00BTJRMP35,Xtrackers,replication,physical,physical,correct
+IE00BTJRMP35,Xtrackers,distribution,accumulating,,missed
+IE00BTJRMP35,Xtrackers,ter_pct,0.18,0.18,correct
+IE00BTJRMP35,Xtrackers,fund_aum_m,15100,15100.0,correct
+IE00BTJRMP35,Xtrackers,aum_currency,USD,USD,correct
+IE00BTJRMP35,Xtrackers,sri,,,correct
+IE00BTJRMP35,Xtrackers,fund_1y_pct,,,correct
+IE00BTJRMP35,Xtrackers,fund_3y_pct,,,correct
+IE00BTJRMP35,Xtrackers,fund_5y_pct,,,correct
+IE00BTJRMP35,Xtrackers,benchmark_1y_pct,,,correct
+IE00BTJRMP35,Xtrackers,benchmark_3y_pct,,,correct
+IE00BTJRMP35,Xtrackers,benchmark_5y_pct,,,correct
+IE00BTJRMP35,Xtrackers,multi_year_annualised,,,correct
+IE00BTJRMP35,Xtrackers,top_holdings,"[{'name': 'TAIWAN SEMICONDUCTOR MANUFACTURING', 'weight_pct': 15.49}, {'name': 'SAMSUNG ELECTRONICS LTD', 'weight_pct': 7.48}, {'name': 'SK HYNIX', 'weight_pct': 5.79}]","[{'name': 'TAIWAN SEMICONDUCTOR MANUFACTURING', 'weight_pct': 15.49}, {'name': 'SAMSUNG ELECTRONICS LTD', 'weight_pct': 7.48}, {'name': 'SK HYNIX', 'weight_pct': 5.79}]",correct
+IE00BZ163H91,Vanguard,fund_name,Vanguard EUR Eurozone Government Bond UCITS ETF,Vanguard EUR Eurozone Government Bond UCITS ETF (EUR) Distributing,correct
+IE00BZ163H91,Vanguard,isin,IE00BZ163H91,IE00BZ163H91,correct
+IE00BZ163H91,Vanguard,issuer,Vanguard,Vanguard,correct
+IE00BZ163H91,Vanguard,as_of_date,2026-09-30,2026-09-30,correct
+IE00BZ163H91,Vanguard,currency,EUR,EUR,correct
+IE00BZ163H91,Vanguard,domicile,Ireland,Ireland,correct
+IE00BZ163H91,Vanguard,inception_date,2016-02-24,2016-02-24,correct
+IE00BZ163H91,Vanguard,benchmark,Bloomberg Euro Aggregate: Treasury Index,Bloomberg Euro Aggregate: Treasury Index,correct
+IE00BZ163H91,Vanguard,replication,physical,physical,correct
+IE00BZ163H91,Vanguard,distribution,distributing,distributing,correct
+IE00BZ163H91,Vanguard,ter_pct,0.07,0.07,correct
+IE00BZ163H91,Vanguard,fund_aum_m,5443,5443.0,correct
+IE00BZ163H91,Vanguard,aum_currency,EUR,EUR,correct
+IE00BZ163H91,Vanguard,sri,3,3,correct
+IE00BZ163H91,Vanguard,fund_1y_pct,-3.05,-3.05,correct
+IE00BZ163H91,Vanguard,fund_3y_pct,2.0,2.0,correct
+IE00BZ163H91,Vanguard,fund_5y_pct,-2.96,-2.96,correct
+IE00BZ163H91,Vanguard,benchmark_1y_pct,-3.0,-3.0,correct
+IE00BZ163H91,Vanguard,benchmark_3y_pct,2.04,2.04,correct
+IE00BZ163H91,Vanguard,benchmark_5y_pct,-2.94,-2.94,correct
+IE00BZ163H91,Vanguard,multi_year_annualised,True,True,correct
+IE00BZ163H91,Vanguard,top_holdings,[],"[{'name': 'France', 'weight_pct': 23.8}, {'name': 'Italy', 'weight_pct': 21.4}, {'name': 'Germany', 'weight_pct': 19.5}]",hallucinated
+LU0446734104,UBS,fund_name,UBS Core MSCI Europe UCITS ETF EUR dis,UBS Core MSCI Europe UCITS ETF EUR dis,correct
+LU0446734104,UBS,isin,LU0446734104,LU0446734104,correct
+LU0446734104,UBS,issuer,UBS,UBS,correct
+LU0446734104,UBS,as_of_date,2026-09-30,2026-09-30,correct
+LU0446734104,UBS,currency,EUR,EUR,correct
+LU0446734104,UBS,domicile,Luxembourg,Luxembourg,correct
+LU0446734104,UBS,inception_date,2009-10-05,2009-10-05,correct
+LU0446734104,UBS,benchmark,MSCI Europe Index,MSCI Europe Total Return Net,wrong
+LU0446734104,UBS,replication,physical,physical,correct
+LU0446734104,UBS,distribution,distributing,distributing,correct
+LU0446734104,UBS,ter_pct,0.06,0.06,correct
+LU0446734104,UBS,fund_aum_m,2801.9,1620.77,wrong
+LU0446734104,UBS,aum_currency,EUR,EUR,correct
+LU0446734104,UBS,sri,,,correct
+LU0446734104,UBS,fund_1y_pct,,-9.33,hallucinated
+LU0446734104,UBS,fund_3y_pct,,62.41,hallucinated
+LU0446734104,UBS,fund_5y_pct,10.18,10.18,correct
+LU0446734104,UBS,benchmark_1y_pct,,-9.49,hallucinated
+LU0446734104,UBS,benchmark_3y_pct,,60.45,hallucinated
+LU0446734104,UBS,benchmark_5y_pct,9.92,9.92,correct
+LU0446734104,UBS,multi_year_annualised,True,True,correct
+LU0446734104,UBS,top_holdings,"[{'name': 'ASML HLDG', 'weight_pct': 5.15}, {'name': 'HSBC HOLDINGS (GB)', 'weight_pct': 2.5}, {'name': 'ROCHE HOLDING PART', 'weight_pct': 2.15}]","[{'name': 'ASML HLDG', 'weight_pct': 5.15}, {'name': 'HSBC HOLDINGS (GB)', 'weight_pct': 2.5}, {'name': 'ROCHE HOLDING PART', 'weight_pct': 2.15}]",correct
+LU1681045370,Amundi,fund_name,Amundi MSCI Emerging Markets Swap UCITS ETF EUR Acc,Amundi MSCI Emerging Markets Swap UCITS ETF EUR Acc,correct
+LU1681045370,Amundi,isin,LU1681045370,LU1681045370,correct
+LU1681045370,Amundi,issuer,Amundi,Amundi,correct
+LU1681045370,Amundi,as_of_date,2026-09-30,2026-09-30,correct
+LU1681045370,Amundi,currency,EUR,EUR,correct
+LU1681045370,Amundi,domicile,Luxembourg,,missed
+LU1681045370,Amundi,inception_date,2018-04-18,2018-04-18,correct
+LU1681045370,Amundi,benchmark,MSCI Emerging Markets,MSCI Emerging Markets,correct
+LU1681045370,Amundi,replication,synthetic,synthetic,correct
+LU1681045370,Amundi,distribution,accumulating,accumulating,correct
+LU1681045370,Amundi,ter_pct,0.2,0.2,correct
+LU1681045370,Amundi,fund_aum_m,5746.23,5746.23,correct
+LU1681045370,Amundi,aum_currency,EUR,EUR,correct
+LU1681045370,Amundi,sri,4,4,correct
+LU1681045370,Amundi,fund_1y_pct,33.79,33.79,correct
+LU1681045370,Amundi,fund_3y_pct,78.17,78.17,correct
+LU1681045370,Amundi,fund_5y_pct,56.21,56.21,correct
+LU1681045370,Amundi,benchmark_1y_pct,33.67,33.67,correct
+LU1681045370,Amundi,benchmark_3y_pct,78.13,78.13,correct
+LU1681045370,Amundi,benchmark_5y_pct,56.57,56.57,correct
+LU1681045370,Amundi,multi_year_annualised,False,False,correct
+LU1681045370,Amundi,top_holdings,"[{'name': 'TAIWAN SEMICONDUCTOR MANUFAC', 'weight_pct': 15.58}, {'name': 'SAMSUNG ELECTRONICS', 'weight_pct': 7.66}, {'name': 'SK HYNIX INC', 'weight_pct': 5.86}]","[{'name': 'TAIWAN SEMICONDUCTOR MANUFACTURING CORP', 'weight_pct': 15.58}, {'name': 'SAMSUNG ELECTRONICS CO LTD', 'weight_pct': 7.66}, {'name': 'SK HYNIX INC', 'weight_pct': 5.86}]",correct
