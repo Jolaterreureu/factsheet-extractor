@@ -10,6 +10,7 @@ from factsheet.validate import check_record, peer_flags
 
 parser = argparse.ArgumentParser()
 parser.add_argument("run", nargs="?", default="qwen3.5-9b-v2-both", help="folder name in results/")
+parser.add_argument("--peers", help="other results folder whose funds are used as peers only")
 args = parser.parse_args()
 run_dir = Path("results") / args.run
 
@@ -20,7 +21,13 @@ rows = []
 for isin, record in records.items():
     text = pdf_text(f"data/pdfs/{isin}.pdf")
     rows += [{"isin": isin, "field": field, "reason": reason} for field, reason in check_record(record, text)]
-rows += [{"isin": isin, "field": field, "reason": reason} for isin, field, reason in peer_flags(records, clusters)]
+peers = dict(records)
+if args.peers:
+    for p in (Path("results") / args.peers).glob("*.json"):
+        if not p.stem.endswith(".raw"):
+            peers.setdefault(p.stem, json.loads(p.read_text()))
+rows += [{"isin": isin, "field": field, "reason": reason}
+         for isin, field, reason in peer_flags(peers, clusters) if isin in records]
 
 flags = pd.DataFrame(rows, columns=["isin", "field", "reason"])
 flags.to_csv(run_dir / "flags.csv", index=False)

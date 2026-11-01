@@ -13,6 +13,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument("--model", default=MODEL)
 parser.add_argument("--all", action="store_true", help="all funds in the manifest, not only the labelled ones")
 parser.add_argument("--only", help="run a single ISIN")
+parser.add_argument("--holdout", action="store_true", help="the 5 held-out funds, saved in a separate folder")
 parser.add_argument("--prompt", default="v3", choices=PROMPTS)
 parser.add_argument("--input", default="text", choices=["text", "image", "both"])
 parser.add_argument("--layout", action="store_true", help="keep the page layout when extracting text")
@@ -21,12 +22,14 @@ args = parser.parse_args()
 
 if args.only:
     isins = [args.only]
+elif args.holdout:
+    isins = [r["isin"] for r in csv.DictReader(open("data/holdout.csv"))]
 elif args.all:
     isins = [r["isin"] for r in csv.DictReader(open("data/manifest.csv"))]
 else:
     isins = sorted(p.stem for p in Path("ground_truth").glob("*.json"))
 
-run_name = f"{args.model.replace(':', '-')}-{args.prompt}" + ("" if args.input == "text" else f"-{args.input}") + ("-layout" if args.layout else "") + ("-think" if args.think else "")
+run_name = f"{args.model.replace(':', '-')}-{args.prompt}" + ("" if args.input == "text" else f"-{args.input}") + ("-layout" if args.layout else "") + ("-think" if args.think else "") + ("-holdout" if args.holdout else "")
 out_dir = Path("results") / run_name
 out_dir.mkdir(parents=True, exist_ok=True)
 

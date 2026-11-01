@@ -1,11 +1,13 @@
 import json
+import sys
 from pathlib import Path
 
 from pydantic import ValidationError
 
 from factsheet.schema import Factsheet
 
-files = sorted(Path("ground_truth").glob("*.json"))
+folder = sys.argv[1] if len(sys.argv) > 1 else "ground_truth"
+files = sorted(Path(folder).glob("*.json"))
 done = 0
 todo = []
 for path in files:
@@ -18,7 +20,7 @@ for path in files:
         todo.append(path.stem)
         continue
     try:
-        Factsheet.model_validate(data)
+        Factsheet.model_validate_json(path.read_text(), strict=True)
     except ValidationError as e:
         print(f"{path.name}: {e.error_count()} error(s)")
         for err in e.errors():

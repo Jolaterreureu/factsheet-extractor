@@ -1,0 +1,37 @@
+{
+  "fund_name": "Xtrackers MSCI Emerging Markets UCITS ETF 1C",
+  "isin": "IE00BTJRMP35",
+  "issuer": "Xtrackers",
+  "as_of_date": "2026-09-30",
+  "currency": "USD",
+  "domicile": "Ireland",
+  "inception_date": "2017-06-21",
+  "benchmark": "MSCI Total Return Net Emerging Markets Index",
+  "replication": "physical",
+  "distribution": "accumulating",
+  "ter_pct": 0.18,
+  "fund_aum_m": 15100,
+  "aum_currency": "USD",
+  "sri": null,
+  "fund_1y_pct": null,
+  "fund_3y_pct": null,
+  "fund_5y_pct": null,
+  "benchmark_1y_pct": null,
+  "benchmark_3y_pct": null,
+  "benchmark_5y_pct": null,
+  "multi_year_annualised": null,
+  "top_holdings": [
+    {
+      "name": "TAIWAN SEMICONDUCTOR MANUFACTURING",
+      "weight_pct": 15.49
+    },
+    {
+      "name": "SAMSUNG ELECTRONICS LTD",
+      "weight_pct": 7.48
+    },
+    {
+      "name": "SK HYNIX",
+      "weight_pct": 5.79
+    }
+  ]
+}

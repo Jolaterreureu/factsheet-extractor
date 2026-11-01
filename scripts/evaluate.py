@@ -7,12 +7,13 @@ import pandas as pd
 from factsheet.evaluate import outcome
 
 parser = argparse.ArgumentParser()
-parser.add_argument("run", nargs="?", default="qwen3.5-9b-v3", help="folder name in results/")
+parser.add_argument("run", nargs="?", default="qwen3.5-9b-v2-both", help="folder name in results/")
+parser.add_argument("--truth", default="ground_truth", help="folder with the labels")
 args = parser.parse_args()
 run_dir = Path("results") / args.run
 
 rows = []
-for truth_path in sorted(Path("ground_truth").glob("*.json")):
+for truth_path in sorted(Path(args.truth).glob("*.json")):
     truth = json.loads(truth_path.read_text())
     pred_path = run_dir / truth_path.name
     pred = json.loads(pred_path.read_text()) if pred_path.exists() else {}
