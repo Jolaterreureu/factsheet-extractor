@@ -1,0 +1,37 @@
+{
+  "fund_name": "iShares MSCI EM UCITS ETF USD (Dist) U.S. Dollar (Distributing)",
+  "isin": "IE00B0M63177",
+  "issuer": "iShares",
+  "as_of_date": "2026-09-30",
+  "currency": "USD",
+  "domicile": "Ireland",
+  "inception_date": "2005-11-18",
+  "benchmark": "MSCI Emerging Markets Index (Net)",
+  "replication": "physical",
+  "distribution": "distributing",
+  "ter_pct": 0.18,
+  "fund_aum_m": 10208.96,
+  "aum_currency": "USD",
+  "sri": 4,
+  "fund_1y_pct": 29.07,
+  "fund_3y_pct": 24.15,
+  "fund_5y_pct": 8.92,
+  "benchmark_1y_pct": 29.22,
+  "benchmark_3y_pct": 24.09,
+  "benchmark_5y_pct": 8.94,
+  "multi_year_annualised": true,
+  "top_holdings": [
+    {
+      "name": "TAIWAN SEMICONDUCTOR MANUFACTURING",
+      "weight_pct": 15.54
+    },
+    {
+      "name": "SAMSUNG ELECTRONICS LTD",
+      "weight_pct": 7.51
+    },
+    {
+      "name": "SK HYNIX",
+      "weight_pct": 5.87
+    }
+  ]
+}

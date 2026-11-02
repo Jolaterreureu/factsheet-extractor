@@ -1,0 +1,37 @@
+{
+  "fund_name": "Amundi Core STOXX Europe 600 UCITS ETF Acc",
+  "isin": "LU0908500753",
+  "issuer": "Amundi",
+  "as_of_date": "2026-09-30",
+  "currency": "EUR",
+  "domicile": null,
+  "inception_date": "2024-02-08",
+  "benchmark": "STOXX EUROPE 600",
+  "replication": "physical",
+  "distribution": "accumulating",
+  "ter_pct": 0.07,
+  "fund_aum_m": 21296.36,
+  "aum_currency": "EUR",
+  "sri": 4,
+  "fund_1y_pct": 16.9,
+  "fund_3y_pct": 53.5,
+  "fund_5y_pct": 60.89,
+  "benchmark_1y_pct": 16.56,
+  "benchmark_3y_pct": 52.3,
+  "benchmark_5y_pct": 58.86,
+  "multi_year_annualised": false,
+  "top_holdings": [
+    {
+      "name": "ASML HOLDING NV",
+      "weight_pct": 4.69
+    },
+    {
+      "name": "HSBC HOLDING PLC GBP",
+      "weight_pct": 2.28
+    },
+    {
+      "name": "ROCHE HLDG AG-GENUSS CHF",
+      "weight_pct": 1.96
+    }
+  ]
+}

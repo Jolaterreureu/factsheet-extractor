@@ -1,0 +1,37 @@
+{
+  "fund_name": "Xtrackers MSCI World Swap UCITS ETF 1C",
+  "isin": "LU0274208692",
+  "issuer": "Xtrackers",
+  "as_of_date": "2026-09-30",
+  "currency": "USD",
+  "domicile": "Luxembourg",
+  "inception_date": "2006-12-19",
+  "benchmark": "MSCI Total Return Net World Index",
+  "replication": "synthetic",
+  "distribution": "accumulating",
+  "ter_pct": 0.45,
+  "fund_aum_m": 14540.0,
+  "aum_currency": "USD",
+  "sri": null,
+  "fund_1y_pct": null,
+  "fund_3y_pct": null,
+  "fund_5y_pct": null,
+  "benchmark_1y_pct": null,
+  "benchmark_3y_pct": null,
+  "benchmark_5y_pct": null,
+  "multi_year_annualised": null,
+  "top_holdings": [
+    {
+      "name": "NVIDIA",
+      "weight_pct": 5.07
+    },
+    {
+      "name": "APPLE",
+      "weight_pct": 4.76
+    },
+    {
+      "name": "MICROSOFT",
+      "weight_pct": 3.0
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "fund_name": "Amundi MSCI Europe ESG Broad Transition UCITS ETF EUR Acc",
+  "isin": "LU1681042609",
+  "issuer": "Amundi",
+  "as_of_date": "2026-09-30",
+  "currency": "EUR",
+  "domicile": null,
+  "inception_date": "2018-03-22",
+  "benchmark": "MSCI EUROPE ESG BROAD CTB SELECT",
+  "replication": "physical",
+  "distribution": "accumulating",
+  "ter_pct": 0.12,
+  "fund_aum_m": 2479.72,
+  "aum_currency": "EUR",
+  "sri": 4,
+  "fund_1y_pct": 16.91,
+  "fund_3y_pct": 52.97,
+  "fund_5y_pct": 57.52,
+  "benchmark_1y_pct": 16.72,
+  "benchmark_3y_pct": 52.08,
+  "benchmark_5y_pct": 55.98,
+  "multi_year_annualised": false,
+  "top_holdings": [
+    {
+      "name": "ASML HOLDING NV",
+      "weight_pct": 5.26
+    },
+    {
+      "name": "HSBC HOLDING PLC GBP",
+      "weight_pct": 2.63
+    },
+    {
+      "name": "ROCHE HLDG AG-GENUSS CHF",
+      "weight_pct": 2.31
+    }
+  ]
+}

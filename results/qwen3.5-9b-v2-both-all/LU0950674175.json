@@ -1,0 +1,37 @@
+{
+  "fund_name": "UBS Core MSCI EM UCITS ETF USD acc",
+  "isin": "LU0950674175",
+  "issuer": "UBS",
+  "as_of_date": "2026-09-30",
+  "currency": "USD",
+  "domicile": "Luxembourg",
+  "inception_date": "2018-06-18",
+  "benchmark": "MSCI Emerging Markets Total Return Net",
+  "replication": "physical",
+  "distribution": "accumulating",
+  "ter_pct": 0.15,
+  "fund_aum_m": 9284.47,
+  "aum_currency": "USD",
+  "sri": null,
+  "fund_1y_pct": 9.57,
+  "fund_3y_pct": 54.09,
+  "fund_5y_pct": 9.03,
+  "benchmark_1y_pct": 9.83,
+  "benchmark_3y_pct": 53.44,
+  "benchmark_5y_pct": 8.94,
+  "multi_year_annualised": true,
+  "top_holdings": [
+    {
+      "name": "Taiwan Semiconductor Manufacturing Co Ltd",
+      "weight_pct": 15.63
+    },
+    {
+      "name": "Samsung Electronics Co Ltd",
+      "weight_pct": 8.5
+    },
+    {
+      "name": "SK Hynix Inc",
+      "weight_pct": 5.9
+    }
+  ]
+}

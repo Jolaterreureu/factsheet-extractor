@@ -1,0 +1,37 @@
+{
+  "fund_name": "UBS S&P 500 SF UCITS ETF USD acc",
+  "isin": "IE00B4JY5R22",
+  "issuer": "UBS",
+  "as_of_date": "2026-09-30",
+  "currency": "USD",
+  "domicile": "Ireland",
+  "inception_date": "2010-12-20",
+  "benchmark": "S&P 500 Total Return Net",
+  "replication": "synthetic",
+  "distribution": "accumulating",
+  "ter_pct": 0.19,
+  "fund_aum_m": 223.82,
+  "aum_currency": "USD",
+  "sri": null,
+  "fund_1y_pct": -18.33,
+  "fund_3y_pct": 87.71,
+  "fund_5y_pct": 13.42,
+  "benchmark_1y_pct": -18.51,
+  "benchmark_3y_pct": 86.74,
+  "benchmark_5y_pct": 13.3,
+  "multi_year_annualised": true,
+  "top_holdings": [
+    {
+      "name": "NVIDIA CORP",
+      "weight_pct": 8.38
+    },
+    {
+      "name": "APPLE INC.",
+      "weight_pct": 7.37
+    },
+    {
+      "name": "MICROSOFT CORP",
+      "weight_pct": 5.78
+    }
+  ]
+}

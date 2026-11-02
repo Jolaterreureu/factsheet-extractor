@@ -1,0 +1,37 @@
+{
+  "fund_name": "iShares MSCI World UCITS ETF U.S. Dollar (Distributing)",
+  "isin": "IE00B0M62Q58",
+  "issuer": "iShares",
+  "as_of_date": "2026-09-30",
+  "currency": "USD",
+  "domicile": "Ireland",
+  "inception_date": "2005-10-28",
+  "benchmark": "MSCI World Index (Net)",
+  "replication": "physical",
+  "distribution": "distributing",
+  "ter_pct": 0.5,
+  "fund_aum_m": 9412.39,
+  "aum_currency": "USD",
+  "sri": 6,
+  "fund_1y_pct": 14.85,
+  "fund_3y_pct": 21.07,
+  "fund_5y_pct": 11.61,
+  "benchmark_1y_pct": 15.24,
+  "benchmark_3y_pct": 21.4,
+  "benchmark_5y_pct": 11.89,
+  "multi_year_annualised": true,
+  "top_holdings": [
+    {
+      "name": "NVIDIA",
+      "weight_pct": 5.79
+    },
+    {
+      "name": "APPLE",
+      "weight_pct": 5.39
+    },
+    {
+      "name": "MICROSOFT",
+      "weight_pct": 3.99
+    }
+  ]
+}

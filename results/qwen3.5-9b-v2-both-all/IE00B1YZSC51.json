@@ -1,0 +1,37 @@
+{
+  "fund_name": "iShares Core MSCI Europe UCITS ETF Euro (Distributing)",
+  "isin": "IE00B1YZSC51",
+  "issuer": "iShares",
+  "as_of_date": "2026-09-30",
+  "currency": "EUR",
+  "domicile": "Ireland",
+  "inception_date": "2007-07-06",
+  "benchmark": "MSCI Europe Index",
+  "replication": "physical",
+  "distribution": "distributing",
+  "ter_pct": 0.12,
+  "fund_aum_m": 11897.68,
+  "aum_currency": "EUR",
+  "sri": 5,
+  "fund_1y_pct": 16.76,
+  "fund_3y_pct": 15.08,
+  "fund_5y_pct": 10.2,
+  "benchmark_1y_pct": 16.49,
+  "benchmark_3y_pct": 14.8,
+  "benchmark_5y_pct": 9.92,
+  "multi_year_annualised": true,
+  "top_holdings": [
+    {
+      "name": "ASML HOLDING",
+      "weight_pct": 5.13
+    },
+    {
+      "name": "HSBC HOLDINGS PLC",
+      "weight_pct": 2.49
+    },
+    {
+      "name": "ROCHE PS PAR AG",
+      "weight_pct": 2.14
+    }
+  ]
+}

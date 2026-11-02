@@ -1,0 +1,37 @@
+{
+  "fund_name": "iShares Core S&P 500 UCITS ETF USD (Dist) U.S. Dollar (Distributing)",
+  "isin": "IE0031442068",
+  "issuer": "iShares",
+  "as_of_date": "2026-09-30",
+  "currency": "USD",
+  "domicile": "Ireland",
+  "inception_date": "2002-03-15",
+  "benchmark": "S&P 500 Index",
+  "replication": "physical",
+  "distribution": "distributing",
+  "ter_pct": 0.07,
+  "fund_aum_m": 22874.43,
+  "aum_currency": "USD",
+  "sri": 4,
+  "fund_1y_pct": 15.47,
+  "fund_3y_pct": 22.57,
+  "fund_5y_pct": 13.49,
+  "benchmark_1y_pct": 15.34,
+  "benchmark_3y_pct": 22.41,
+  "benchmark_5y_pct": 13.3,
+  "multi_year_annualised": true,
+  "top_holdings": [
+    {
+      "name": "NVIDIA",
+      "weight_pct": 8.37
+    },
+    {
+      "name": "APPLE",
+      "weight_pct": 7.36
+    },
+    {
+      "name": "MICROSOFT",
+      "weight_pct": 5.77
+    }
+  ]
+}
