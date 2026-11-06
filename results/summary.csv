@@ -7,3 +7,5 @@ qwen3.5-9b-v3-think,0.793,62,29,0,291.4
 qwen3.5-9b-v2-image,0.868,12,29,17,44.0
 qwen3.5-9b-v2-both,0.916,4,16,17,55.1
 qwen3.5-9b-v2-both-holdout,0.918,2,2,5,48.8
+gemma-4-31b-it-v2-both,0.948,0,14,9,207.0
+gemma-4-31b-it-v2-both-holdout,0.945,0,5,1,61.2
