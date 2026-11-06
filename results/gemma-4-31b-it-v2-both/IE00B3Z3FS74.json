@@ -1,0 +1,37 @@
+{
+  "fund_name": "UBS MSCI EM SF UCITS ETF USD acc",
+  "isin": "IE00B3Z3FS74",
+  "issuer": "UBS",
+  "as_of_date": "2026-09-30",
+  "currency": "USD",
+  "domicile": "Ireland",
+  "inception_date": "2011-04-27",
+  "benchmark": "MSCI Emerging Markets Total Return Net",
+  "replication": "synthetic",
+  "distribution": "accumulating",
+  "ter_pct": 0.14,
+  "fund_aum_m": 176.14,
+  "aum_currency": "USD",
+  "sri": null,
+  "fund_1y_pct": -0.56,
+  "fund_3y_pct": null,
+  "fund_5y_pct": 53.26,
+  "benchmark_1y_pct": -0.56,
+  "benchmark_3y_pct": null,
+  "benchmark_5y_pct": 53.44,
+  "multi_year_annualised": false,
+  "top_holdings": [
+    {
+      "name": "TAIWAN SEMICONDUCTOR MFG",
+      "weight_pct": 15.63
+    },
+    {
+      "name": "SAMSUNG ELECTRONICS CO",
+      "weight_pct": 7.55
+    },
+    {
+      "name": "SK HYNIX",
+      "weight_pct": 5.9
+    }
+  ]
+}

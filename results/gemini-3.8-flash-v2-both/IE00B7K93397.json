@@ -1,0 +1,37 @@
+{
+  "fund_name": "UBS Core S&P 500 UCITS ETF USD dis",
+  "isin": "IE00B7K93397",
+  "issuer": "UBS",
+  "as_of_date": "2026-08-31",
+  "currency": "USD",
+  "domicile": "Ireland",
+  "inception_date": "2012-04-11",
+  "benchmark": "S&P 500 Total Return Net",
+  "replication": "physical",
+  "distribution": "distributing",
+  "ter_pct": 0.03,
+  "fund_aum_m": 4896.8,
+  "aum_currency": "USD",
+  "sri": null,
+  "fund_1y_pct": null,
+  "fund_3y_pct": null,
+  "fund_5y_pct": 12.46,
+  "benchmark_1y_pct": null,
+  "benchmark_3y_pct": null,
+  "benchmark_5y_pct": 12.31,
+  "multi_year_annualised": true,
+  "top_holdings": [
+    {
+      "name": "NVIDIA CORP COMMON STOCK USD.001",
+      "weight_pct": 8.09
+    },
+    {
+      "name": "APPLE INC COMMON STOCK USD.00001",
+      "weight_pct": 7.04
+    },
+    {
+      "name": "MICROSOFT CORP COMMON STOCK USD.00000625",
+      "weight_pct": 5.7
+    }
+  ]
+}
