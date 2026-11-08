@@ -1,0 +1,37 @@
+{
+  "fund_name": "UBS Core MSCI Europe UCITS ETF EUR dis",
+  "isin": "LU0446734104",
+  "issuer": "UBS",
+  "as_of_date": "2026-09-30",
+  "currency": "EUR",
+  "domicile": "Luxembourg",
+  "inception_date": "2009-10-05",
+  "benchmark": "MSCI Europe Total Return Net",
+  "replication": "physical",
+  "distribution": "distributing",
+  "ter_pct": 0.06,
+  "fund_aum_m": 2801.9,
+  "aum_currency": "EUR",
+  "sri": null,
+  "fund_1y_pct": null,
+  "fund_3y_pct": null,
+  "fund_5y_pct": 10.18,
+  "benchmark_1y_pct": null,
+  "benchmark_3y_pct": null,
+  "benchmark_5y_pct": 9.92,
+  "multi_year_annualised": true,
+  "top_holdings": [
+    {
+      "name": "ASML HLDG",
+      "weight_pct": 5.15
+    },
+    {
+      "name": "HSBC HOLDINGS (GB)",
+      "weight_pct": 2.5
+    },
+    {
+      "name": "ROCHE HOLDING PART",
+      "weight_pct": 2.15
+    }
+  ]
+}

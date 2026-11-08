@@ -1,0 +1,37 @@
+{
+  "fund_name": "Amundi Core S&P 500 Swap UCITS ETF Acc",
+  "isin": "LU1135865084",
+  "issuer": "Amundi",
+  "as_of_date": "2026-09-30",
+  "currency": "USD",
+  "domicile": "Luxembourg",
+  "inception_date": "2014-12-09",
+  "benchmark": "S&P 500",
+  "replication": "synthetic",
+  "distribution": "accumulating",
+  "ter_pct": 0.05,
+  "fund_aum_m": 33571.34,
+  "aum_currency": "USD",
+  "sri": 4,
+  "fund_1y_pct": 15.61,
+  "fund_3y_pct": 84.97,
+  "fund_5y_pct": 89.7,
+  "benchmark_1y_pct": 15.34,
+  "benchmark_3y_pct": 83.41,
+  "benchmark_5y_pct": 86.74,
+  "multi_year_annualised": false,
+  "top_holdings": [
+    {
+      "name": "NVIDIA CORP",
+      "weight_pct": 8.32
+    },
+    {
+      "name": "APPLE INC",
+      "weight_pct": 7.27
+    },
+    {
+      "name": "MICROSOFT CORP",
+      "weight_pct": 5.72
+    }
+  ]
+}

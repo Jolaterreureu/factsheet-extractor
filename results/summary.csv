@@ -9,3 +9,5 @@ qwen3.5-9b-v2-both,0.916,4,16,17,55.1
 qwen3.5-9b-v2-both-holdout,0.918,2,2,5,48.8
 gemma-4-31b-it-v2-both,0.948,0,14,9,207.0
 gemma-4-31b-it-v2-both-holdout,0.945,0,5,1,61.2
+gemini-3.8-flash-v2-both,0.998,0,1,0,262.1
+gemini-3.8-flash-v2-both-holdout,0.982,0,2,0,205.5
