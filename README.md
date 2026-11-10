@@ -75,10 +75,10 @@ The labels had errors too: about a dozen were corrected over the project (typos,
 From `notebooks/analysis.ipynb` (flagged values dropped):
 
 - Bond ETFs trail their index by about their TER. Equity ETFs often beat their (net) index despite fees, most in Europe (other effects add about 0.38% p.a., more than the fee), likely through withholding tax treatment and securities lending.
-- Within equity funds, higher TER goes with lower tracking difference (correlation -0.75). iShares MSCI World Dist costs 0.30% more than iShares Core MSCI World and its 5y tracking difference is 0.34% lower.
+- Within equity funds, cheaper funds track their index better: TER and 5y tracking difference have a correlation of -0.75. The cleanest case: iShares MSCI World Dist and iShares Core MSCI World track the same index from the same issuer. The first costs 0.30% p.a. more and its 5y tracking difference is 0.34% p.a. lower, so the fee difference reaches investors almost one for one.
 - The S&P 500 swap ETF from Amundi has the highest tracking difference in its group (swap ETFs avoid US dividend withholding tax). Only two swap funds, so an observation, not a result.
 - FTSE and MSCI emerging market funds hold different portfolios: Samsung and SK Hynix are in the MSCI top 3 but not in the FTSE index (FTSE treats South Korea as developed). The FTSE funds lagged by about 2.3% p.a. over 5 years.
-- Top 3 holdings: 28.8% of EM funds, 21.5% of S&P 500, 15.1% of MSCI World, 9.6% of European funds (median).
+- Weight of the three largest holdings, median across funds in each group: 28.8% for emerging markets (TSMC, Samsung, SK Hynix), 21.5% for the S&P 500, 15.1% for MSCI World and 9.6% for European funds.
 
 ## Limitations
 
